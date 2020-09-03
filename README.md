@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shah</h1>
-<h3 align="center">Full Stack Dev based in London</h3>
+<h3 align="center">Full Stack Dev based out of London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smashah" alt="smashah" /> </p>
 
-- 🔭 I’m currently working on [open-wa](https://open-wa.github.io/wa-automate-nodejs)
+🔭 I’m currently working on [open-wa](https://open-wa.github.io/wa-automate-nodejs)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
