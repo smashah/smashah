@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#896](https://github.com/open-wa/wa-automate-nodejs/issues/896) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#895](https://github.com/open-wa/wa-automate-nodejs/issues/895) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#894](https://github.com/open-wa/wa-automate-nodejs/issues/894) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#893](https://github.com/open-wa/wa-automate-nodejs/issues/893) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#892](https://github.com/open-wa/wa-automate-nodejs/issues/892) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🎉 Merged PR [#286](https://github.com/open-wa/whatsapp-button/pull/286) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+2. 🎉 Merged PR [#5](https://github.com/smashah/gcloud-build-slack-notifier/pull/5) in [smashah/gcloud-build-slack-notifier](https://github.com/smashah/gcloud-build-slack-notifier)
+3. 🎉 Merged PR [#235](https://github.com/smashah/chargebee-card/pull/235) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
+4. 🎉 Merged PR [#284](https://github.com/open-wa/whatsapp-button/pull/284) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+5. 🎉 Merged PR [#278](https://github.com/open-wa/whatsapp-button/pull/278) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
