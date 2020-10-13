@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#931](https://github.com/open-wa/wa-automate-nodejs/issues/931) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#926](https://github.com/open-wa/wa-automate-nodejs/issues/926) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🎉 Merged PR [#303](https://github.com/open-wa/whatsapp-button/pull/303) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
-4. 🎉 Merged PR [#246](https://github.com/smashah/chargebee-card/pull/246) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
-5. 🗣 Commented on [#926](https://github.com/open-wa/wa-automate-nodejs/issues/926) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#932](https://github.com/open-wa/wa-automate-nodejs/issues/932) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#931](https://github.com/open-wa/wa-automate-nodejs/issues/931) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#926](https://github.com/open-wa/wa-automate-nodejs/issues/926) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🎉 Merged PR [#303](https://github.com/open-wa/whatsapp-button/pull/303) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+5. 🎉 Merged PR [#246](https://github.com/smashah/chargebee-card/pull/246) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
