@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#66](https://github.com/open-wa/wa-decrypt-nodejs/issues/66) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
-2. ❗️ Closed issue [#965](https://github.com/open-wa/wa-automate-nodejs/issues/965) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#965](https://github.com/open-wa/wa-automate-nodejs/issues/965) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#962](https://github.com/open-wa/wa-automate-nodejs/issues/962) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#962](https://github.com/open-wa/wa-automate-nodejs/issues/962) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#66](https://github.com/open-wa/wa-decrypt-nodejs/issues/66) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+3. 🗣 Commented on [#66](https://github.com/open-wa/wa-decrypt-nodejs/issues/66) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+4. 🗣 Commented on [#66](https://github.com/open-wa/wa-decrypt-nodejs/issues/66) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+5. 🗣 Commented on [#66](https://github.com/open-wa/wa-decrypt-nodejs/issues/66) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
