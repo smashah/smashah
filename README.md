@@ -13,8 +13,8 @@
 1. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
 2. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
 3. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
-4. 🗣 Commented on [#989](https://github.com/open-wa/wa-automate-nodejs/issues/989) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#988](https://github.com/open-wa/wa-automate-nodejs/issues/988) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
+5. 🗣 Commented on [#989](https://github.com/open-wa/wa-automate-nodejs/issues/989) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
