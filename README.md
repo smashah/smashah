@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
+1. 🗣 Commented on [#926](https://github.com/open-wa/wa-automate-nodejs/issues/926) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 2. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
 3. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
 4. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
-5. 🗣 Commented on [#989](https://github.com/open-wa/wa-automate-nodejs/issues/989) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
