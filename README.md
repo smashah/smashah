@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#991](https://github.com/open-wa/wa-automate-nodejs/issues/991) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#991](https://github.com/open-wa/wa-automate-nodejs/issues/991) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#926](https://github.com/open-wa/wa-automate-nodejs/issues/926) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
-5. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
+1. 🎉 Merged PR [#994](https://github.com/open-wa/wa-automate-nodejs/pull/994) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🎉 Merged PR [#992](https://github.com/open-wa/wa-automate-nodejs/pull/992) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🎉 Merged PR [#254](https://github.com/smashah/chargebee-card/pull/254) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
+4. 🎉 Merged PR [#267](https://github.com/smashah/lit-place-input/pull/267) in [smashah/lit-place-input](https://github.com/smashah/lit-place-input)
+5. ❗️ Closed issue [#991](https://github.com/open-wa/wa-automate-nodejs/issues/991) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
