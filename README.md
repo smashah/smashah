@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3358](https://github.com/postmanlabs/postman-app-support/issues/3358) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-2. ❗️ Opened issue [#1003](https://github.com/open-wa/wa-automate-nodejs/issues/1003) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#114](https://github.com/YogaSakti/imageToSticker/issues/114) in [YogaSakti/imageToSticker](https://github.com/YogaSakti/imageToSticker)
-4. ❗️ Closed issue [#4903](https://github.com/Unitech/pm2/issues/4903) in [Unitech/pm2](https://github.com/Unitech/pm2)
-5. 🗣 Commented on [#4903](https://github.com/Unitech/pm2/issues/4903) in [Unitech/pm2](https://github.com/Unitech/pm2)
+1. 🗣 Commented on [#1004](https://github.com/open-wa/wa-automate-nodejs/issues/1004) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3358](https://github.com/postmanlabs/postman-app-support/issues/3358) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+3. ❗️ Opened issue [#1003](https://github.com/open-wa/wa-automate-nodejs/issues/1003) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#114](https://github.com/YogaSakti/imageToSticker/issues/114) in [YogaSakti/imageToSticker](https://github.com/YogaSakti/imageToSticker)
+5. ❗️ Closed issue [#4903](https://github.com/Unitech/pm2/issues/4903) in [Unitech/pm2](https://github.com/Unitech/pm2)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
