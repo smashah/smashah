@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#257](https://github.com/smashah/chargebee-card/pull/257) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
-2. 🎉 Merged PR [#319](https://github.com/open-wa/whatsapp-button/pull/319) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
-3. 🎉 Merged PR [#999](https://github.com/open-wa/wa-automate-nodejs/pull/999) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#4903](https://github.com/Unitech/pm2/issues/4903) in [Unitech/pm2](https://github.com/Unitech/pm2)
-5. 🗣 Commented on [#318](https://github.com/open-wa/whatsapp-button/issues/318) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+1. 🗣 Commented on [#1001](https://github.com/open-wa/wa-automate-nodejs/issues/1001) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🎉 Merged PR [#257](https://github.com/smashah/chargebee-card/pull/257) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
+3. 🎉 Merged PR [#319](https://github.com/open-wa/whatsapp-button/pull/319) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+4. 🎉 Merged PR [#999](https://github.com/open-wa/wa-automate-nodejs/pull/999) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#4903](https://github.com/Unitech/pm2/issues/4903) in [Unitech/pm2](https://github.com/Unitech/pm2)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
