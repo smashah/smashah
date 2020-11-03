@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1016](https://github.com/open-wa/wa-automate-nodejs/issues/1016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#321](https://github.com/open-wa/whatsapp-button/pull/321) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
-3. 🎉 Merged PR [#1022](https://github.com/open-wa/wa-automate-nodejs/pull/1022) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🎉 Merged PR [#1021](https://github.com/open-wa/wa-automate-nodejs/pull/1021) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#1003](https://github.com/open-wa/wa-automate-nodejs/issues/1003) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1016](https://github.com/open-wa/wa-automate-nodejs/issues/1016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🎉 Merged PR [#321](https://github.com/open-wa/whatsapp-button/pull/321) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+4. 🎉 Merged PR [#1022](https://github.com/open-wa/wa-automate-nodejs/pull/1022) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🎉 Merged PR [#1021](https://github.com/open-wa/wa-automate-nodejs/pull/1021) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
