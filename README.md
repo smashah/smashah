@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/aMarCruz/rollup-plugin-cleanup/issues/16) in [aMarCruz/rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup)
-2. 🎉 Merged PR [#335](https://github.com/open-wa/whatsapp-button/pull/335) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
-3. 🎉 Merged PR [#78](https://github.com/open-wa/wa-decrypt-nodejs/pull/78) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
-4. 🎉 Merged PR [#1109](https://github.com/open-wa/wa-automate-nodejs/pull/1109) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🎉 Merged PR [#263](https://github.com/smashah/chargebee-card/pull/263) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
+1. 🎉 Merged PR [#264](https://github.com/smashah/chargebee-card/pull/264) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
+2. 🗣 Commented on [#16](https://github.com/aMarCruz/rollup-plugin-cleanup/issues/16) in [aMarCruz/rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup)
+3. 🎉 Merged PR [#335](https://github.com/open-wa/whatsapp-button/pull/335) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+4. 🎉 Merged PR [#78](https://github.com/open-wa/wa-decrypt-nodejs/pull/78) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+5. 🎉 Merged PR [#1109](https://github.com/open-wa/wa-automate-nodejs/pull/1109) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
