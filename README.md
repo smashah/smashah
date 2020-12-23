@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/smashah/smashblock/issues/2) in [smashah/smashblock](https://github.com/smashah/smashblock)
-2. 🗣 Commented on [#60](https://github.com/joaomirandasa/whats2api/issues/60) in [joaomirandasa/whats2api](https://github.com/joaomirandasa/whats2api)
-3. 🗣 Commented on [#1188](https://github.com/open-wa/wa-automate-nodejs/issues/1188) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#1188](https://github.com/open-wa/wa-automate-nodejs/issues/1188) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#1188](https://github.com/open-wa/wa-automate-nodejs/issues/1188) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#1193](https://github.com/open-wa/wa-automate-nodejs/issues/1193) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Closed issue [#2](https://github.com/smashah/smashblock/issues/2) in [smashah/smashblock](https://github.com/smashah/smashblock)
+3. 🗣 Commented on [#2](https://github.com/smashah/smashblock/issues/2) in [smashah/smashblock](https://github.com/smashah/smashblock)
+4. ❗️ Opened issue [#2](https://github.com/smashah/smashblock/issues/2) in [smashah/smashblock](https://github.com/smashah/smashblock)
+5. 🗣 Commented on [#60](https://github.com/joaomirandasa/whats2api/issues/60) in [joaomirandasa/whats2api](https://github.com/joaomirandasa/whats2api)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
