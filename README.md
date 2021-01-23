@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#219](https://github.com/hassio-addons/repository/issues/219) in [hassio-addons/repository](https://github.com/hassio-addons/repository)
-2. 🗣 Commented on [#2](https://github.com/chargebee/chargebee-typescript/issues/2) in [chargebee/chargebee-typescript](https://github.com/chargebee/chargebee-typescript)
+1. 🗣 Commented on [#1266](https://github.com/open-wa/wa-automate-nodejs/issues/1266) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1266](https://github.com/open-wa/wa-automate-nodejs/issues/1266) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 🗣 Commented on [#1266](https://github.com/open-wa/wa-automate-nodejs/issues/1266) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Closed issue [#1265](https://github.com/open-wa/wa-automate-nodejs/issues/1265) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#1265](https://github.com/open-wa/wa-automate-nodejs/issues/1265) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🎉 Merged PR [#1260](https://github.com/open-wa/wa-automate-nodejs/pull/1260) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🎉 Merged PR [#1261](https://github.com/open-wa/wa-automate-nodejs/pull/1261) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
