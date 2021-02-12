@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1337](https://github.com/open-wa/wa-automate-nodejs/issues/1337) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#1335](https://github.com/open-wa/wa-automate-nodejs/issues/1335) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#1336](https://github.com/open-wa/wa-automate-nodejs/issues/1336) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#1329](https://github.com/open-wa/wa-automate-nodejs/issues/1329) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#74](https://github.com/dado3212/spaces-renamer/issues/74) in [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer)
+1. ❗️ Closed issue [#1343](https://github.com/open-wa/wa-automate-nodejs/issues/1343) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1337](https://github.com/open-wa/wa-automate-nodejs/issues/1337) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#1335](https://github.com/open-wa/wa-automate-nodejs/issues/1335) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#1336](https://github.com/open-wa/wa-automate-nodejs/issues/1336) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#1329](https://github.com/open-wa/wa-automate-nodejs/issues/1329) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
