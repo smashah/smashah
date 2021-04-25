@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1611](https://github.com/open-wa/wa-automate-nodejs/issues/1611) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#1609](https://github.com/open-wa/wa-automate-nodejs/pull/1609) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🎉 Merged PR [#1601](https://github.com/open-wa/wa-automate-nodejs/pull/1601) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❌ Closed PR [#1602](https://github.com/open-wa/wa-automate-nodejs/pull/1602) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❌ Closed PR [#1598](https://github.com/open-wa/wa-automate-nodejs/pull/1598) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🎉 Merged PR [#26](https://github.com/open-wa/wa-automate-deploy-heroku/pull/26) in [open-wa/wa-automate-deploy-heroku](https://github.com/open-wa/wa-automate-deploy-heroku)
+2. 🎉 Merged PR [#115](https://github.com/open-wa/wa-decrypt-nodejs/pull/115) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+3. ❗️ Opened issue [#1611](https://github.com/open-wa/wa-automate-nodejs/issues/1611) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🎉 Merged PR [#1609](https://github.com/open-wa/wa-automate-nodejs/pull/1609) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🎉 Merged PR [#1601](https://github.com/open-wa/wa-automate-nodejs/pull/1601) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
