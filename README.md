@@ -24,6 +24,11 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 10 mins    █████████████▓░░░░░░░░░░░   54.14 % 
+TypeScript   46 mins         ████████▓░░░░░░░░░░░░░░░░   35.14 % 
+JSON         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+```
 <!--END_SECTION:waka-->
 
 ### Testimonials
