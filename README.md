@@ -21,6 +21,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Testimonials
 
 <div align="center">
