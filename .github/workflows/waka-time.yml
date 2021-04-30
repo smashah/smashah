@@ -14,4 +14,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           SHOW_TITLE: true
+          COMMIT_BY_ME: true
+          SHOW_LINES_OF_CODE: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
