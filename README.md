@@ -25,6 +25,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 22 April, 2021 - 29 April, 2021
+
 JavaScript   1 hr 10 mins    █████████████▓░░░░░░░░░░░   54.14 % 
 TypeScript   46 mins         ████████▓░░░░░░░░░░░░░░░░   35.14 % 
 JSON         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
