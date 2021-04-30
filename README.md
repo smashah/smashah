@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#312](https://github.com/smashah/lit-place-input/pull/312) in [smashah/lit-place-input](https://github.com/smashah/lit-place-input)
-2. 🎉 Merged PR [#118](https://github.com/open-wa/wa-decrypt-nodejs/pull/118) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
-3. 🎉 Merged PR [#422](https://github.com/open-wa/whatsapp-button/pull/422) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
-4. 🎉 Merged PR [#9](https://github.com/smashah/gcloud-build-slack-notifier/pull/9) in [smashah/gcloud-build-slack-notifier](https://github.com/smashah/gcloud-build-slack-notifier)
-5. 🎉 Merged PR [#307](https://github.com/smashah/chargebee-card/pull/307) in [smashah/chargebee-card](https://github.com/smashah/chargebee-card)
+1. ❗️ Closed issue [#1624](https://github.com/open-wa/wa-automate-nodejs/issues/1624) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1624](https://github.com/open-wa/wa-automate-nodejs/issues/1624) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🎉 Merged PR [#312](https://github.com/smashah/lit-place-input/pull/312) in [smashah/lit-place-input](https://github.com/smashah/lit-place-input)
+4. 🎉 Merged PR [#118](https://github.com/open-wa/wa-decrypt-nodejs/pull/118) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+5. 🎉 Merged PR [#422](https://github.com/open-wa/whatsapp-button/pull/422) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
