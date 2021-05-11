@@ -10,7 +10,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1636](https://github.com/open-wa/wa-automate-nodejs/issues/1636) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#14](https://github.com/open-wa/wa-automate-docker/issues/14) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
 2. 🗣 Commented on [#1636](https://github.com/open-wa/wa-automate-nodejs/issues/1636) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 🗣 Commented on [#1636](https://github.com/open-wa/wa-automate-nodejs/issues/1636) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 4. 🗣 Commented on [#1636](https://github.com/open-wa/wa-automate-nodejs/issues/1636) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
