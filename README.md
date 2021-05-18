@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1679](https://github.com/open-wa/wa-automate-nodejs/issues/1679) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#1674](https://github.com/open-wa/wa-automate-nodejs/pull/1674) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🎉 Merged PR [#1675](https://github.com/open-wa/wa-automate-nodejs/pull/1675) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🎉 Merged PR [#1676](https://github.com/open-wa/wa-automate-nodejs/pull/1676) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🎉 Merged PR [#1677](https://github.com/open-wa/wa-automate-nodejs/pull/1677) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1679](https://github.com/open-wa/wa-automate-nodejs/issues/1679) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🎉 Merged PR [#1674](https://github.com/open-wa/wa-automate-nodejs/pull/1674) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🎉 Merged PR [#1675](https://github.com/open-wa/wa-automate-nodejs/pull/1675) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🎉 Merged PR [#1676](https://github.com/open-wa/wa-automate-nodejs/pull/1676) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
