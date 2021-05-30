@@ -10,9 +10,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/alexk111/node-red-node-typescript-starter/pull/3) in [alexk111/node-red-node-typescript-starter](https://github.com/alexk111/node-red-node-typescript-starter)
-2. ❗️ Closed issue [#1734](https://github.com/open-wa/wa-automate-nodejs/issues/1734) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#1734](https://github.com/open-wa/wa-automate-nodejs/issues/1734) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#2212](https://github.com/yarnpkg/berry/issues/2212) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+2. 💪 Opened PR [#3](https://github.com/alexk111/node-red-node-typescript-starter/pull/3) in [alexk111/node-red-node-typescript-starter](https://github.com/alexk111/node-red-node-typescript-starter)
+3. ❗️ Closed issue [#1734](https://github.com/open-wa/wa-automate-nodejs/issues/1734) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 4. 🗣 Commented on [#1734](https://github.com/open-wa/wa-automate-nodejs/issues/1734) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 5. 🗣 Commented on [#1734](https://github.com/open-wa/wa-automate-nodejs/issues/1734) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
