@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1749](https://github.com/open-wa/wa-automate-nodejs/issues/1749) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#1755](https://github.com/open-wa/wa-automate-nodejs/issues/1755) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Reopened issue [#1755](https://github.com/open-wa/wa-automate-nodejs/issues/1755) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#659](https://github.com/open-wa/wa-automate-nodejs/issues/659) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#1756](https://github.com/open-wa/wa-automate-nodejs/issues/1756) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1749](https://github.com/open-wa/wa-automate-nodejs/issues/1749) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#1749](https://github.com/open-wa/wa-automate-nodejs/issues/1749) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#1755](https://github.com/open-wa/wa-automate-nodejs/issues/1755) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Reopened issue [#1755](https://github.com/open-wa/wa-automate-nodejs/issues/1755) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
