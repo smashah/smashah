@@ -14,7 +14,7 @@
 2. 🗣 Commented on [#261](https://github.com/open-wa/wa-automate-nodejs/issues/261) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 🗣 Commented on [#261](https://github.com/open-wa/wa-automate-nodejs/issues/261) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 4. 🗣 Commented on [#261](https://github.com/open-wa/wa-automate-nodejs/issues/261) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#1774](https://github.com/open-wa/wa-automate-nodejs/issues/1774) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#261](https://github.com/open-wa/wa-automate-nodejs/issues/261) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
