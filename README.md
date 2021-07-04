@@ -24,13 +24,13 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-550488%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,368 Contributions in the Year 2021
+> 🏆 1,369 Contributions in the Year 2021
  > 
 > 📦 244.9 kB Used in Github's Storage 
  > 
@@ -55,9 +55,9 @@
 Monday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
 Tuesday      193 commits    █████░░░░░░░░░░░░░░░░░░░░   21.07% 
 Wednesday    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-Thursday     158 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+Thursday     157 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
 Friday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
-Saturday     99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+Saturday     100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
 Sunday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
 
 ```
@@ -97,7 +97,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
 
 ### Testimonials
