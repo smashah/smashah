@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#98](https://github.com/open-wa/wa-automate-nodejs/issues/98) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#51](https://github.com/open-wa/wa-automate-deploy-heroku/pull/51) in [open-wa/wa-automate-deploy-heroku](https://github.com/open-wa/wa-automate-deploy-heroku)
+2. ❗️ Opened issue [#1903](https://github.com/open-wa/wa-automate-nodejs/issues/1903) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 🗣 Commented on [#98](https://github.com/open-wa/wa-automate-nodejs/issues/98) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#98](https://github.com/open-wa/wa-automate-nodejs/issues/98) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Reopened issue [#98](https://github.com/open-wa/wa-automate-nodejs/issues/98) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🎉 Merged PR [#51](https://github.com/open-wa/wa-automate-deploy-heroku/pull/51) in [open-wa/wa-automate-deploy-heroku](https://github.com/open-wa/wa-automate-deploy-heroku)
+5. 🗣 Commented on [#98](https://github.com/open-wa/wa-automate-nodejs/issues/98) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
