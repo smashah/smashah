@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1968](https://github.com/open-wa/wa-automate-nodejs/pull/1968) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#1971](https://github.com/open-wa/wa-automate-nodejs/pull/1971) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🎉 Merged PR [#1963](https://github.com/open-wa/wa-automate-nodejs/pull/1963) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🎉 Merged PR [#1956](https://github.com/open-wa/wa-automate-nodejs/pull/1956) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🎉 Merged PR [#1957](https://github.com/open-wa/wa-automate-nodejs/pull/1957) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Closed issue [#157](https://github.com/open-wa/wa-decrypt-nodejs/issues/157) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+2. 🗣 Commented on [#157](https://github.com/open-wa/wa-decrypt-nodejs/issues/157) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+3. ❌ Closed PR [#117](https://github.com/open-wa/wa-decrypt-nodejs/pull/117) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+4. 🎉 Merged PR [#139](https://github.com/open-wa/wa-decrypt-nodejs/pull/139) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+5. 🎉 Merged PR [#141](https://github.com/open-wa/wa-decrypt-nodejs/pull/141) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
