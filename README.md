@@ -10,10 +10,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1984](https://github.com/open-wa/wa-automate-nodejs/issues/1984) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Closed issue [#1952](https://github.com/open-wa/wa-automate-nodejs/issues/1952) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#1952](https://github.com/open-wa/wa-automate-nodejs/issues/1952) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#1952](https://github.com/open-wa/wa-automate-nodejs/issues/1952) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🎉 Merged PR [#6](https://github.com/open-wa/node-red-contrib-wa-automate/pull/6) in [open-wa/node-red-contrib-wa-automate](https://github.com/open-wa/node-red-contrib-wa-automate)
+2. 🎉 Merged PR [#60](https://github.com/open-wa/wa-automate-deploy-heroku/pull/60) in [open-wa/wa-automate-deploy-heroku](https://github.com/open-wa/wa-automate-deploy-heroku)
+3. ❗️ Closed issue [#1984](https://github.com/open-wa/wa-automate-nodejs/issues/1984) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Closed issue [#1952](https://github.com/open-wa/wa-automate-nodejs/issues/1952) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 5. 🗣 Commented on [#1952](https://github.com/open-wa/wa-automate-nodejs/issues/1952) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
