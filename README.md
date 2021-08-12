@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1582](https://github.com/PipedreamHQ/pipedream/issues/1582) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-2. ❗️ Opened issue [#1582](https://github.com/PipedreamHQ/pipedream/issues/1582) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
-3. 🗣 Commented on [#2002](https://github.com/open-wa/wa-automate-nodejs/issues/2002) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#2002](https://github.com/open-wa/wa-automate-nodejs/issues/2002) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🎉 Merged PR [#2000](https://github.com/open-wa/wa-automate-nodejs/pull/2000) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#2003](https://github.com/open-wa/wa-automate-nodejs/issues/2003) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#2003](https://github.com/open-wa/wa-automate-nodejs/issues/2003) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#1582](https://github.com/PipedreamHQ/pipedream/issues/1582) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+4. ❗️ Opened issue [#1582](https://github.com/PipedreamHQ/pipedream/issues/1582) in [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+5. 🗣 Commented on [#2002](https://github.com/open-wa/wa-automate-nodejs/issues/2002) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
