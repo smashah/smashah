@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/open-wa/wa-decrypt-nodejs/issues/166) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
-2. ❗️ Closed issue [#18](https://github.com/open-wa/wa-automate-docker/issues/18) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-3. 🗣 Commented on [#18](https://github.com/open-wa/wa-automate-docker/issues/18) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-4. ❗️ Closed issue [#19](https://github.com/open-wa/wa-automate-docker/issues/19) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-5. ❗️ Closed issue [#1](https://github.com/open-wa/utils-nodejs/issues/1) in [open-wa/utils-nodejs](https://github.com/open-wa/utils-nodejs)
+1. ❗️ Opened issue [#2043](https://github.com/open-wa/wa-automate-nodejs/issues/2043) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Closed issue [#166](https://github.com/open-wa/wa-decrypt-nodejs/issues/166) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+3. 🗣 Commented on [#166](https://github.com/open-wa/wa-decrypt-nodejs/issues/166) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+4. 🗣 Commented on [#166](https://github.com/open-wa/wa-decrypt-nodejs/issues/166) in [open-wa/wa-decrypt-nodejs](https://github.com/open-wa/wa-decrypt-nodejs)
+5. ❗️ Closed issue [#18](https://github.com/open-wa/wa-automate-docker/issues/18) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
