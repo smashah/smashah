@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2126](https://github.com/open-wa/wa-automate-nodejs/issues/2126) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#2128](https://github.com/open-wa/wa-automate-nodejs/issues/2128) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#2125](https://github.com/open-wa/wa-automate-nodejs/issues/2125) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#2123](https://github.com/open-wa/wa-automate-nodejs/issues/2123) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#2121](https://github.com/open-wa/wa-automate-nodejs/issues/2121) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Closed issue [#2126](https://github.com/open-wa/wa-automate-nodejs/issues/2126) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#2126](https://github.com/open-wa/wa-automate-nodejs/issues/2126) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Closed issue [#2128](https://github.com/open-wa/wa-automate-nodejs/issues/2128) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#2128](https://github.com/open-wa/wa-automate-nodejs/issues/2128) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#2126](https://github.com/open-wa/wa-automate-nodejs/issues/2126) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
