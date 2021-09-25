@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/npm/libnpmhook/issues/15) in [npm/libnpmhook](https://github.com/npm/libnpmhook)
-2. 🎉 Merged PR [#2163](https://github.com/open-wa/wa-automate-nodejs/pull/2163) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Closed issue [#2158](https://github.com/open-wa/wa-automate-nodejs/issues/2158) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#2158](https://github.com/open-wa/wa-automate-nodejs/issues/2158) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#2158](https://github.com/open-wa/wa-automate-nodejs/issues/2158) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🎉 Merged PR [#467](https://github.com/open-wa/whatsapp-button/pull/467) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+2. 🎉 Merged PR [#462](https://github.com/open-wa/whatsapp-button/pull/462) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+3. 🎉 Merged PR [#461](https://github.com/open-wa/whatsapp-button/pull/461) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+4. 🎉 Merged PR [#464](https://github.com/open-wa/whatsapp-button/pull/464) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+5. 🎉 Merged PR [#454](https://github.com/open-wa/whatsapp-button/pull/454) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
