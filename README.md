@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2185](https://github.com/open-wa/wa-automate-nodejs/issues/2185) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#2185](https://github.com/open-wa/wa-automate-nodejs/issues/2185) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🎉 Merged PR [#474](https://github.com/open-wa/whatsapp-button/pull/474) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
-4. 🎉 Merged PR [#2184](https://github.com/open-wa/wa-automate-nodejs/pull/2184) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#2123](https://github.com/open-wa/wa-automate-nodejs/issues/2123) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🎉 Merged PR [#475](https://github.com/open-wa/whatsapp-button/pull/475) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+2. ❗️ Closed issue [#2185](https://github.com/open-wa/wa-automate-nodejs/issues/2185) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2185](https://github.com/open-wa/wa-automate-nodejs/issues/2185) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🎉 Merged PR [#474](https://github.com/open-wa/whatsapp-button/pull/474) in [open-wa/whatsapp-button](https://github.com/open-wa/whatsapp-button)
+5. 🎉 Merged PR [#2184](https://github.com/open-wa/wa-automate-nodejs/pull/2184) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
