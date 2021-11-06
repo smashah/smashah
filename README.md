@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2266](https://github.com/open-wa/wa-automate-nodejs/issues/2266) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#2266](https://github.com/open-wa/wa-automate-nodejs/pull/2266) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🎉 Merged PR [#10](https://github.com/open-wa/node-red-contrib-wa-automate/pull/10) in [open-wa/node-red-contrib-wa-automate](https://github.com/open-wa/node-red-contrib-wa-automate)
-4. 🗣 Commented on [#1874](https://github.com/firebase/firebase-js-sdk/issues/1874) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-5. 🗣 Commented on [#21](https://github.com/open-wa/wa-automate-docker/issues/21) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+1. ❗️ Closed issue [#2267](https://github.com/open-wa/wa-automate-nodejs/issues/2267) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#2267](https://github.com/open-wa/wa-automate-nodejs/issues/2267) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2266](https://github.com/open-wa/wa-automate-nodejs/issues/2266) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🎉 Merged PR [#2266](https://github.com/open-wa/wa-automate-nodejs/pull/2266) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🎉 Merged PR [#10](https://github.com/open-wa/node-red-contrib-wa-automate/pull/10) in [open-wa/node-red-contrib-wa-automate](https://github.com/open-wa/node-red-contrib-wa-automate)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
