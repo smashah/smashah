@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2268](https://github.com/open-wa/wa-automate-nodejs/issues/2268) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#6](https://github.com/sindresorhus/yoctocolors/issues/6) in [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors)
-3. ❗️ Closed issue [#2282](https://github.com/open-wa/wa-automate-nodejs/issues/2282) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#2282](https://github.com/open-wa/wa-automate-nodejs/issues/2282) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#2276](https://github.com/open-wa/wa-automate-nodejs/issues/2276) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#2268](https://github.com/open-wa/wa-automate-nodejs/issues/2268) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2268](https://github.com/open-wa/wa-automate-nodejs/issues/2268) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#2268](https://github.com/open-wa/wa-automate-nodejs/issues/2268) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#6](https://github.com/sindresorhus/yoctocolors/issues/6) in [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
