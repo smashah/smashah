@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2182](https://github.com/open-wa/wa-automate-nodejs/issues/2182) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#2](https://github.com/kleisauke/wasm-vips/issues/2) in [kleisauke/wasm-vips](https://github.com/kleisauke/wasm-vips)
-3. 🗣 Commented on [#35](https://github.com/ffmpegwasm/ffmpeg.wasm/issues/35) in [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
-4. 🗣 Commented on [#1815](https://github.com/open-wa/wa-automate-nodejs/issues/1815) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#2291](https://github.com/open-wa/wa-automate-nodejs/issues/2291) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#22](https://github.com/open-wa/wa-automate-docker/issues/22) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+2. 🗣 Commented on [#2182](https://github.com/open-wa/wa-automate-nodejs/issues/2182) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2](https://github.com/kleisauke/wasm-vips/issues/2) in [kleisauke/wasm-vips](https://github.com/kleisauke/wasm-vips)
+4. 🗣 Commented on [#35](https://github.com/ffmpegwasm/ffmpeg.wasm/issues/35) in [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+5. 🗣 Commented on [#1815](https://github.com/open-wa/wa-automate-nodejs/issues/1815) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
