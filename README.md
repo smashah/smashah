@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-561333%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-560944%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,113 Contributions in the Year 2021
+> 🏆 2,117 Contributions in the Year 2021
  > 
-> 📦 363.4 kB Used in GitHub's Storage 
+> 📦 362.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -52,12 +52,12 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Monday       140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
 Tuesday      236 commits    █████░░░░░░░░░░░░░░░░░░░░   22.08% 
 Wednesday    146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
 Thursday     131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
 Friday       118 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
-Saturday     155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
+Saturday     154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
 Sunday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.47%
 
 ```
@@ -97,7 +97,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
 ### Testimonials
