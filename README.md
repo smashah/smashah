@@ -10,10 +10,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/open-wa/wa-automate-docker/issues/30) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-2. ❗️ Closed issue [#2450](https://github.com/open-wa/wa-automate-nodejs/issues/2450) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Closed issue [#2452](https://github.com/open-wa/wa-automate-nodejs/issues/2452) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#2452](https://github.com/open-wa/wa-automate-nodejs/issues/2452) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#1871](https://github.com/winstonjs/winston/issues/1871) in [winstonjs/winston](https://github.com/winstonjs/winston)
+2. 🗣 Commented on [#30](https://github.com/open-wa/wa-automate-docker/issues/30) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+3. ❗️ Closed issue [#2450](https://github.com/open-wa/wa-automate-nodejs/issues/2450) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Closed issue [#2452](https://github.com/open-wa/wa-automate-nodejs/issues/2452) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 5. 🗣 Commented on [#2452](https://github.com/open-wa/wa-automate-nodejs/issues/2452) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
