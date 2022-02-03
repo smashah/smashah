@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2487](https://github.com/open-wa/wa-automate-nodejs/issues/2487) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#2486](https://github.com/open-wa/wa-automate-nodejs/issues/2486) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#1871](https://github.com/winstonjs/winston/issues/1871) in [winstonjs/winston](https://github.com/winstonjs/winston)
-4. 💪 Opened PR [#2057](https://github.com/winstonjs/winston/pull/2057) in [winstonjs/winston](https://github.com/winstonjs/winston)
-5. 💪 Opened PR [#81](https://github.com/winstonjs/winston-transport/pull/81) in [winstonjs/winston-transport](https://github.com/winstonjs/winston-transport)
+1. ❗️ Opened issue [#2488](https://github.com/open-wa/wa-automate-nodejs/issues/2488) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#2487](https://github.com/open-wa/wa-automate-nodejs/issues/2487) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#2486](https://github.com/open-wa/wa-automate-nodejs/issues/2486) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#1871](https://github.com/winstonjs/winston/issues/1871) in [winstonjs/winston](https://github.com/winstonjs/winston)
+5. 💪 Opened PR [#2057](https://github.com/winstonjs/winston/pull/2057) in [winstonjs/winston](https://github.com/winstonjs/winston)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
