@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/smashah/picoS3/issues/5) in [smashah/picoS3](https://github.com/smashah/picoS3)
-2. 🗣 Commented on [#5](https://github.com/smashah/picoS3/issues/5) in [smashah/picoS3](https://github.com/smashah/picoS3)
-3. ❗️ Closed issue [#6](https://github.com/smashah/picoS3/issues/6) in [smashah/picoS3](https://github.com/smashah/picoS3)
-4. ❗️ Opened issue [#6](https://github.com/smashah/picoS3/issues/6) in [smashah/picoS3](https://github.com/smashah/picoS3)
-5. 🗣 Commented on [#2602](https://github.com/open-wa/wa-automate-nodejs/issues/2602) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#2607](https://github.com/open-wa/wa-automate-nodejs/issues/2607) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Closed issue [#5](https://github.com/smashah/picoS3/issues/5) in [smashah/picoS3](https://github.com/smashah/picoS3)
+3. 🗣 Commented on [#5](https://github.com/smashah/picoS3/issues/5) in [smashah/picoS3](https://github.com/smashah/picoS3)
+4. ❗️ Closed issue [#6](https://github.com/smashah/picoS3/issues/6) in [smashah/picoS3](https://github.com/smashah/picoS3)
+5. ❗️ Opened issue [#6](https://github.com/smashah/picoS3/issues/6) in [smashah/picoS3](https://github.com/smashah/picoS3)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
