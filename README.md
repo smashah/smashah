@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#23](https://github.com/open-wa/wa-automate-docker/issues/23) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-2. ❗️ Closed issue [#23](https://github.com/open-wa/wa-automate-docker/issues/23) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-3. 🗣 Commented on [#23](https://github.com/open-wa/wa-automate-docker/issues/23) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-4. ❗️ Closed issue [#26](https://github.com/open-wa/wa-automate-docker/issues/26) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-5. ❗️ Closed issue [#38](https://github.com/open-wa/wa-automate-docker/issues/38) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+1. 🗣 Commented on [#100](https://github.com/cloudflare/node-cloudflare/issues/100) in [cloudflare/node-cloudflare](https://github.com/cloudflare/node-cloudflare)
+2. ❗️ Reopened issue [#23](https://github.com/open-wa/wa-automate-docker/issues/23) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+3. ❗️ Closed issue [#23](https://github.com/open-wa/wa-automate-docker/issues/23) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+4. 🗣 Commented on [#23](https://github.com/open-wa/wa-automate-docker/issues/23) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+5. ❗️ Closed issue [#26](https://github.com/open-wa/wa-automate-docker/issues/26) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
