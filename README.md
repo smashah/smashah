@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2740](https://github.com/open-wa/wa-automate-nodejs/issues/2740) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Closed issue [#246](https://github.com/Clytage/whatsapp-bot/issues/246) in [Clytage/whatsapp-bot](https://github.com/Clytage/whatsapp-bot)
-3. ❗️ Opened issue [#246](https://github.com/Clytage/whatsapp-bot/issues/246) in [Clytage/whatsapp-bot](https://github.com/Clytage/whatsapp-bot)
-4. 🗣 Commented on [#38](https://github.com/open-wa/wa-automate-docker/issues/38) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-5. 🗣 Commented on [#2739](https://github.com/open-wa/wa-automate-nodejs/issues/2739) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#2737](https://github.com/open-wa/wa-automate-nodejs/issues/2737) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#2740](https://github.com/open-wa/wa-automate-nodejs/issues/2740) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Closed issue [#246](https://github.com/Clytage/whatsapp-bot/issues/246) in [Clytage/whatsapp-bot](https://github.com/Clytage/whatsapp-bot)
+4. ❗️ Opened issue [#246](https://github.com/Clytage/whatsapp-bot/issues/246) in [Clytage/whatsapp-bot](https://github.com/Clytage/whatsapp-bot)
+5. 🗣 Commented on [#38](https://github.com/open-wa/wa-automate-docker/issues/38) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
