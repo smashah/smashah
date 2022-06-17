@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2745](https://github.com/open-wa/wa-automate-nodejs/issues/2745) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#2745](https://github.com/open-wa/wa-automate-nodejs/issues/2745) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Closed issue [#2745](https://github.com/open-wa/wa-automate-nodejs/issues/2745) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 🗣 Commented on [#2745](https://github.com/open-wa/wa-automate-nodejs/issues/2745) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🎉 Merged PR [#2595](https://github.com/open-wa/wa-automate-nodejs/pull/2595) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#2](https://github.com/smashah/smashah/issues/2) in [smashah/smashah](https://github.com/smashah/smashah)
+4. 🗣 Commented on [#2745](https://github.com/open-wa/wa-automate-nodejs/issues/2745) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#2745](https://github.com/open-wa/wa-automate-nodejs/issues/2745) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
