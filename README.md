@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2759](https://github.com/open-wa/wa-automate-nodejs/issues/2759) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#2759](https://github.com/open-wa/wa-automate-nodejs/issues/2759) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#2758](https://github.com/open-wa/wa-automate-nodejs/issues/2758) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#2756](https://github.com/open-wa/wa-automate-nodejs/issues/2756) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#2751](https://github.com/open-wa/wa-automate-nodejs/issues/2751) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#78](https://github.com/Cuadrix/puppeteer-page-proxy/issues/78) in [Cuadrix/puppeteer-page-proxy](https://github.com/Cuadrix/puppeteer-page-proxy)
+2. 🗣 Commented on [#8506](https://github.com/puppeteer/puppeteer/issues/8506) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+3. ❗️ Closed issue [#2759](https://github.com/open-wa/wa-automate-nodejs/issues/2759) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#2759](https://github.com/open-wa/wa-automate-nodejs/issues/2759) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#2758](https://github.com/open-wa/wa-automate-nodejs/issues/2758) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
