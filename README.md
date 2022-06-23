@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2394](https://github.com/open-wa/wa-automate-nodejs/issues/2394) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#8506](https://github.com/puppeteer/puppeteer/issues/8506) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-3. 💪 Opened PR [#8545](https://github.com/puppeteer/puppeteer/pull/8545) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-4. ❗️ Opened issue [#78](https://github.com/Cuadrix/puppeteer-page-proxy/issues/78) in [Cuadrix/puppeteer-page-proxy](https://github.com/Cuadrix/puppeteer-page-proxy)
-5. 🗣 Commented on [#8506](https://github.com/puppeteer/puppeteer/issues/8506) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+2. 🗣 Commented on [#2394](https://github.com/open-wa/wa-automate-nodejs/issues/2394) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#8506](https://github.com/puppeteer/puppeteer/issues/8506) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+4. 💪 Opened PR [#8545](https://github.com/puppeteer/puppeteer/pull/8545) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+5. ❗️ Opened issue [#78](https://github.com/Cuadrix/puppeteer-page-proxy/issues/78) in [Cuadrix/puppeteer-page-proxy](https://github.com/Cuadrix/puppeteer-page-proxy)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
