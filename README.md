@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/smashah/puppeteer-page-proxy/pull/1) in [smashah/puppeteer-page-proxy](https://github.com/smashah/puppeteer-page-proxy)
-2. 💪 Opened PR [#1](https://github.com/smashah/puppeteer-page-proxy/pull/1) in [smashah/puppeteer-page-proxy](https://github.com/smashah/puppeteer-page-proxy)
-3. ❗️ Closed issue [#2853](https://github.com/open-wa/wa-automate-nodejs/issues/2853) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#2853](https://github.com/open-wa/wa-automate-nodejs/issues/2853) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#2853](https://github.com/open-wa/wa-automate-nodejs/issues/2853) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Closed issue [#2859](https://github.com/open-wa/wa-automate-nodejs/issues/2859) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#2859](https://github.com/open-wa/wa-automate-nodejs/issues/2859) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#79](https://github.com/Cuadrix/puppeteer-page-proxy/issues/79) in [Cuadrix/puppeteer-page-proxy](https://github.com/Cuadrix/puppeteer-page-proxy)
+4. 🗣 Commented on [#2859](https://github.com/open-wa/wa-automate-nodejs/issues/2859) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#2860](https://github.com/open-wa/wa-automate-nodejs/issues/2860) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
