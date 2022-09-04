@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Ashanime/Ashanime-Web-App/issues/1) in [Ashanime/Ashanime-Web-App](https://github.com/Ashanime/Ashanime-Web-App)
-2. 🗣 Commented on [#78](https://github.com/Cuadrix/puppeteer-page-proxy/issues/78) in [Cuadrix/puppeteer-page-proxy](https://github.com/Cuadrix/puppeteer-page-proxy)
-3. ❗️ Opened issue [#185](https://github.com/localtunnel/server/issues/185) in [localtunnel/server](https://github.com/localtunnel/server)
-4. 🗣 Commented on [#659](https://github.com/open-wa/wa-automate-nodejs/issues/659) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#2260](https://github.com/open-wa/wa-automate-nodejs/issues/2260) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#2871](https://github.com/open-wa/wa-automate-nodejs/issues/2871) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#1](https://github.com/Ashanime/Ashanime-Web-App/issues/1) in [Ashanime/Ashanime-Web-App](https://github.com/Ashanime/Ashanime-Web-App)
+3. 🗣 Commented on [#78](https://github.com/Cuadrix/puppeteer-page-proxy/issues/78) in [Cuadrix/puppeteer-page-proxy](https://github.com/Cuadrix/puppeteer-page-proxy)
+4. ❗️ Opened issue [#185](https://github.com/localtunnel/server/issues/185) in [localtunnel/server](https://github.com/localtunnel/server)
+5. 🗣 Commented on [#659](https://github.com/open-wa/wa-automate-nodejs/issues/659) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
