@@ -24,15 +24,15 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C506%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C511%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,389 Contributions in the Year 2022
+> 🏆 1,391 Contributions in the Year 2022
  > 
 > 📦 249.4 kB Used in GitHub's Storage 
  > 
@@ -71,17 +71,17 @@ Sunday       157 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.17% 
-TypeScript               2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   26.72% 
-JavaScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
-Docker                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
+TypeScript               6 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.56% 
+Other                    2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+JavaScript               2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.46% 
+Docker                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.89%
 
 🔥 Editors: 
-VS Code                  8 hrs 45 mins       █████████████████████████   100.0%
+VS Code                  13 hrs 57 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 45 mins       █████████████████████████   100.0%
+Mac                      13 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +98,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 00:25:47 UTC
+ Last Updated on 04/09/2022 00:27:32 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
