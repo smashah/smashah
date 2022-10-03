@@ -24,15 +24,15 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C533%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C533%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,452 Contributions in the Year 2022
+> 🏆 1,453 Contributions in the Year 2022
  > 
 > 📦 284.1 kB Used in GitHub's Storage 
  > 
@@ -71,13 +71,14 @@ Sunday       161 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████████░░░░   85.71% 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +95,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2022 00:26:42 UTC
+ Last Updated on 03/10/2022 00:27:22 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
