@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C541%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -71,10 +71,10 @@ Sunday       161 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        ███████████░░░░░░░░░░░░░░   44.66% 
-TypeScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   23.0% 
-Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
+JavaScript               1 hr 52 mins        ███████████░░░░░░░░░░░░░░   44.74% 
+TypeScript               57 mins             █████░░░░░░░░░░░░░░░░░░░░   22.87% 
+Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.87% 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
 JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
 
 🔥 Editors: 
@@ -98,7 +98,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2022 00:28:13 UTC
+ Last Updated on 17/10/2022 00:33:25 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
