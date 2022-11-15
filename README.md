@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2675](https://github.com/open-wa/wa-automate-nodejs/issues/2675) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#2675](https://github.com/open-wa/wa-automate-nodejs/issues/2675) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#131](https://github.com/cabinjs/cabin/issues/131) in [cabinjs/cabin](https://github.com/cabinjs/cabin)
-4. 🗣 Commented on [#131](https://github.com/cabinjs/cabin/issues/131) in [cabinjs/cabin](https://github.com/cabinjs/cabin)
-5. ❗️ Closed issue [#2947](https://github.com/open-wa/wa-automate-nodejs/issues/2947) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Closed issue [#2675](https://github.com/open-wa/wa-automate-nodejs/issues/2675) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2934](https://github.com/open-wa/wa-automate-nodejs/issues/2934) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Closed issue [#2934](https://github.com/open-wa/wa-automate-nodejs/issues/2934) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#2675](https://github.com/open-wa/wa-automate-nodejs/issues/2675) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
