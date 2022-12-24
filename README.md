@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/antfu/vscode-vite/issues/27) in [antfu/vscode-vite](https://github.com/antfu/vscode-vite)
-2. 🗣 Commented on [#27](https://github.com/antfu/vscode-vite/issues/27) in [antfu/vscode-vite](https://github.com/antfu/vscode-vite)
-3. ❗️ Opened issue [#2991](https://github.com/open-wa/wa-automate-nodejs/issues/2991) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#27](https://github.com/antfu/vscode-vite/issues/27) in [antfu/vscode-vite](https://github.com/antfu/vscode-vite)
-5. ❗️ Opened issue [#2990](https://github.com/open-wa/wa-automate-nodejs/issues/2990) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#8](https://github.com/gbenga504/js-docusaurus/issues/8) in [gbenga504/js-docusaurus](https://github.com/gbenga504/js-docusaurus)
+2. ❗️ Closed issue [#27](https://github.com/antfu/vscode-vite/issues/27) in [antfu/vscode-vite](https://github.com/antfu/vscode-vite)
+3. 🗣 Commented on [#27](https://github.com/antfu/vscode-vite/issues/27) in [antfu/vscode-vite](https://github.com/antfu/vscode-vite)
+4. ❗️ Opened issue [#2991](https://github.com/open-wa/wa-automate-nodejs/issues/2991) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#27](https://github.com/antfu/vscode-vite/issues/27) in [antfu/vscode-vite](https://github.com/antfu/vscode-vite)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
