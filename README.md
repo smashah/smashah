@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2990](https://github.com/open-wa/wa-automate-nodejs/issues/2990) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#2989](https://github.com/open-wa/wa-automate-nodejs/issues/2989) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#2988](https://github.com/open-wa/wa-automate-nodejs/issues/2988) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#2986](https://github.com/open-wa/wa-automate-nodejs/issues/2986) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#14](https://github.com/smashah/picoS3/issues/14) in [smashah/picoS3](https://github.com/smashah/picoS3)
+1. ❗️ Opened issue [#2991](https://github.com/open-wa/wa-automate-nodejs/issues/2991) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#27](https://github.com/antfu/vscode-vite/issues/27) in [antfu/vscode-vite](https://github.com/antfu/vscode-vite)
+3. ❗️ Opened issue [#2990](https://github.com/open-wa/wa-automate-nodejs/issues/2990) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#2989](https://github.com/open-wa/wa-automate-nodejs/issues/2989) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#2988](https://github.com/open-wa/wa-automate-nodejs/issues/2988) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
