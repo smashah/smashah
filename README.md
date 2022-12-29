@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5330](https://github.com/Unitech/pm2/issues/5330) in [Unitech/pm2](https://github.com/Unitech/pm2)
-2. ❗️ Closed issue [#2998](https://github.com/open-wa/wa-automate-nodejs/issues/2998) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#2998](https://github.com/open-wa/wa-automate-nodejs/issues/2998) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#2997](https://github.com/open-wa/wa-automate-nodejs/issues/2997) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#2996](https://github.com/open-wa/wa-automate-nodejs/issues/2996) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#116](https://github.com/ds300/patch-package/issues/116) in [ds300/patch-package](https://github.com/ds300/patch-package)
+2. 🗣 Commented on [#5330](https://github.com/Unitech/pm2/issues/5330) in [Unitech/pm2](https://github.com/Unitech/pm2)
+3. ❗️ Closed issue [#2998](https://github.com/open-wa/wa-automate-nodejs/issues/2998) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#2998](https://github.com/open-wa/wa-automate-nodejs/issues/2998) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#2997](https://github.com/open-wa/wa-automate-nodejs/issues/2997) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
