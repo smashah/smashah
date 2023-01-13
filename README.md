@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3012](https://github.com/open-wa/wa-automate-nodejs/issues/3012) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#57](https://github.com/Matsuuu/web-component-devtools/issues/57) in [Matsuuu/web-component-devtools](https://github.com/Matsuuu/web-component-devtools)
-3. ❗️ Opened issue [#33](https://github.com/open-wa/node-red-contrib-wa-automate/issues/33) in [open-wa/node-red-contrib-wa-automate](https://github.com/open-wa/node-red-contrib-wa-automate)
-4. 🗣 Commented on [#3010](https://github.com/open-wa/wa-automate-nodejs/issues/3010) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#2944](https://github.com/open-wa/wa-automate-nodejs/issues/2944) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#9](https://github.com/open-wa/wa-automate-socket-client-nodejs/issues/9) in [open-wa/wa-automate-socket-client-nodejs](https://github.com/open-wa/wa-automate-socket-client-nodejs)
+2. 🗣 Commented on [#8246](https://github.com/puppeteer/puppeteer/issues/8246) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+3. 🗣 Commented on [#57](https://github.com/Matsuuu/web-component-devtools/issues/57) in [Matsuuu/web-component-devtools](https://github.com/Matsuuu/web-component-devtools)
+4. 🗣 Commented on [#57](https://github.com/Matsuuu/web-component-devtools/issues/57) in [Matsuuu/web-component-devtools](https://github.com/Matsuuu/web-component-devtools)
+5. 🗣 Commented on [#3012](https://github.com/open-wa/wa-automate-nodejs/issues/3012) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
