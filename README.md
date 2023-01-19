@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 58 Contributions in the Year 2023
+> 🏆 64 Contributions in the Year 2023
  > 
 > 📦 299.8 kB Used in GitHub's Storage 
  > 
@@ -71,15 +71,15 @@ Sunday       162 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        ██████████████████████░░░   91.13% 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49%
+JavaScript               1 hr 43 mins        ██████████████████████░░░   90.93% 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.0%
+VS Code                  1 hr 54 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 56 mins        █████████████████████████   100.0%
+Mac                      1 hr 54 mins        █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +96,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2023 00:23:07 UTC
+ Last Updated on 19/01/2023 00:23:21 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
