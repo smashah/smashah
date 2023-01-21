@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/open-wa/wa-automate-socket-client-python/issues/6) in [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python)
-2. 🗣 Commented on [#3016](https://github.com/open-wa/wa-automate-nodejs/issues/3016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#6](https://github.com/open-wa/wa-automate-socket-client-python/issues/6) in [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python)
 3. 🗣 Commented on [#3016](https://github.com/open-wa/wa-automate-nodejs/issues/3016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 4. 🗣 Commented on [#3016](https://github.com/open-wa/wa-automate-nodejs/issues/3016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#3025](https://github.com/open-wa/wa-automate-nodejs/issues/3025) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3016](https://github.com/open-wa/wa-automate-nodejs/issues/3016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
