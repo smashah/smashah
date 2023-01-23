@@ -10,10 +10,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/smashah/picoS3/issues/16) in [smashah/picoS3](https://github.com/smashah/picoS3)
-2. 🗣 Commented on [#6](https://github.com/open-wa/wa-automate-socket-client-python/issues/6) in [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python)
+1. 🗣 Commented on [#6225](https://github.com/nextauthjs/next-auth/issues/6225) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#16](https://github.com/smashah/picoS3/issues/16) in [smashah/picoS3](https://github.com/smashah/picoS3)
 3. 🗣 Commented on [#6](https://github.com/open-wa/wa-automate-socket-client-python/issues/6) in [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python)
-4. 🗣 Commented on [#3016](https://github.com/open-wa/wa-automate-nodejs/issues/3016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#6](https://github.com/open-wa/wa-automate-socket-client-python/issues/6) in [open-wa/wa-automate-socket-client-python](https://github.com/open-wa/wa-automate-socket-client-python)
 5. 🗣 Commented on [#3016](https://github.com/open-wa/wa-automate-nodejs/issues/3016) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
