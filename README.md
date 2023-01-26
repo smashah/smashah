@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3011](https://github.com/open-wa/wa-automate-nodejs/issues/3011) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#3011](https://github.com/open-wa/wa-automate-nodejs/issues/3011) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Reopened issue [#3011](https://github.com/open-wa/wa-automate-nodejs/issues/3011) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#68](https://github.com/soyuka/pidusage/issues/68) in [soyuka/pidusage](https://github.com/soyuka/pidusage)
-5. 🗣 Commented on [#6225](https://github.com/nextauthjs/next-auth/issues/6225) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❗️ Opened issue [#3032](https://github.com/open-wa/wa-automate-nodejs/issues/3032) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#3031](https://github.com/open-wa/wa-automate-nodejs/issues/3031) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Closed issue [#3029](https://github.com/open-wa/wa-automate-nodejs/issues/3029) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#3029](https://github.com/open-wa/wa-automate-nodejs/issues/3029) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Closed issue [#3011](https://github.com/open-wa/wa-automate-nodejs/issues/3011) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
