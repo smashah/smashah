@@ -13,8 +13,8 @@
 1. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 2. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#3050](https://github.com/open-wa/wa-automate-nodejs/issues/3050) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#5330](https://github.com/Unitech/pm2/issues/5330) in [Unitech/pm2](https://github.com/Unitech/pm2)
+4. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#3050](https://github.com/open-wa/wa-automate-nodejs/issues/3050) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
