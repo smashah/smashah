@@ -10,7 +10,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#117](https://github.com/slanatech/swagger-stats/issues/117) in [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats)
 2. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 4. 🗣 Commented on [#3051](https://github.com/open-wa/wa-automate-nodejs/issues/3051) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
