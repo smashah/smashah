@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3081](https://github.com/open-wa/wa-automate-nodejs/issues/3081) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#3081](https://github.com/open-wa/wa-automate-nodejs/issues/3081) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#3080](https://github.com/open-wa/wa-automate-nodejs/issues/3080) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#3079](https://github.com/open-wa/wa-automate-nodejs/issues/3079) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#3079](https://github.com/open-wa/wa-automate-nodejs/issues/3079) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3081](https://github.com/open-wa/wa-automate-nodejs/issues/3081) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+4. 🗣 Commented on [#3081](https://github.com/open-wa/wa-automate-nodejs/issues/3081) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#3081](https://github.com/open-wa/wa-automate-nodejs/issues/3081) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
