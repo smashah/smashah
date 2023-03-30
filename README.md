@@ -13,8 +13,8 @@
 1. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
 2. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
 3. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-4. 🗣 Commented on [#3084](https://github.com/open-wa/wa-automate-nodejs/issues/3084) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+4. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
+5. 🗣 Commented on [#3084](https://github.com/open-wa/wa-automate-nodejs/issues/3084) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
