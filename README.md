@@ -12,9 +12,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
 2. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
-3. 🗣 Commented on [#3083](https://github.com/open-wa/wa-automate-nodejs/issues/3083) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2631](https://github.com/adiwajshing/Baileys/issues/2631) in [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
 4. 🗣 Commented on [#3083](https://github.com/open-wa/wa-automate-nodejs/issues/3083) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#62](https://github.com/open-wa/wa-automate-docker/issues/62) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+5. 🗣 Commented on [#3083](https://github.com/open-wa/wa-automate-nodejs/issues/3083) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
