@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3083](https://github.com/open-wa/wa-automate-nodejs/issues/3083) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Closed issue [#62](https://github.com/open-wa/wa-automate-docker/issues/62) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-3. ❗️ Opened issue [#63](https://github.com/open-wa/wa-automate-docker/issues/63) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-4. ❗️ Opened issue [#62](https://github.com/open-wa/wa-automate-docker/issues/62) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-5. 🗣 Commented on [#3081](https://github.com/open-wa/wa-automate-nodejs/issues/3081) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3083](https://github.com/open-wa/wa-automate-nodejs/issues/3083) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Closed issue [#62](https://github.com/open-wa/wa-automate-docker/issues/62) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+4. ❗️ Opened issue [#63](https://github.com/open-wa/wa-automate-docker/issues/63) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
+5. ❗️ Opened issue [#62](https://github.com/open-wa/wa-automate-docker/issues/62) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
