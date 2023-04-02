@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3092](https://github.com/open-wa/wa-automate-nodejs/issues/3092) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#3092](https://github.com/open-wa/wa-automate-nodejs/issues/3092) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#5893](https://github.com/puppeteer/puppeteer/issues/5893) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-4. ❗️ Closed issue [#3063](https://github.com/open-wa/wa-automate-nodejs/issues/3063) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#3063](https://github.com/open-wa/wa-automate-nodejs/issues/3063) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3092](https://github.com/open-wa/wa-automate-nodejs/issues/3092) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#3092](https://github.com/open-wa/wa-automate-nodejs/issues/3092) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#5893](https://github.com/puppeteer/puppeteer/issues/5893) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+5. ❗️ Closed issue [#3063](https://github.com/open-wa/wa-automate-nodejs/issues/3063) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
