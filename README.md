@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3100](https://github.com/open-wa/wa-automate-nodejs/issues/3100) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#5893](https://github.com/puppeteer/puppeteer/issues/5893) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-3. 🎉 Merged PR [#64](https://github.com/open-wa/wa-automate-docker/pull/64) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-4. 🗣 Commented on [#64](https://github.com/open-wa/wa-automate-docker/issues/64) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-5. 🗣 Commented on [#5893](https://github.com/puppeteer/puppeteer/issues/5893) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+1. 🗣 Commented on [#3100](https://github.com/open-wa/wa-automate-nodejs/issues/3100) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3100](https://github.com/open-wa/wa-automate-nodejs/issues/3100) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#3100](https://github.com/open-wa/wa-automate-nodejs/issues/3100) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#5893](https://github.com/puppeteer/puppeteer/issues/5893) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+5. 🎉 Merged PR [#64](https://github.com/open-wa/wa-automate-docker/pull/64) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
