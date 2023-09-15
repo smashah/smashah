@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7640](https://github.com/blakeblackshear/frigate/issues/7640) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-2. ❗️ Closed issue [#3141](https://github.com/open-wa/wa-automate-nodejs/issues/3141) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Closed issue [#3138](https://github.com/open-wa/wa-automate-nodejs/issues/3138) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🎉 Merged PR [#66](https://github.com/open-wa/wa-automate-docker/pull/66) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-5. ❗️ Opened issue [#3133](https://github.com/open-wa/wa-automate-nodejs/issues/3133) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#5021](https://github.com/oven-sh/bun/issues/5021) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#7640](https://github.com/blakeblackshear/frigate/issues/7640) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+3. ❗️ Closed issue [#3141](https://github.com/open-wa/wa-automate-nodejs/issues/3141) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Closed issue [#3138](https://github.com/open-wa/wa-automate-nodejs/issues/3138) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🎉 Merged PR [#66](https://github.com/open-wa/wa-automate-docker/pull/66) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
