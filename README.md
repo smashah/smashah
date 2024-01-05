@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/TechForPalestine/badges/pull/4) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
-2. ❗️ Opened issue [#3](https://github.com/webkeyz/stand-with-palestine/issues/3) in [webkeyz/stand-with-palestine](https://github.com/webkeyz/stand-with-palestine)
-3. ❗️ Opened issue [#1](https://github.com/FreePalestine1948/Boycott/issues/1) in [FreePalestine1948/Boycott](https://github.com/FreePalestine1948/Boycott)
-4. 💪 Opened PR [#1](https://github.com/TechForPalestine/antipalestinian-vc-funds/pull/1) in [TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)
-5. 🗣 Commented on [#3157](https://github.com/open-wa/wa-automate-nodejs/issues/3157) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#5](https://github.com/TechForPalestine/badges/issues/5) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
+2. 🎉 Merged PR [#4](https://github.com/TechForPalestine/badges/pull/4) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
+3. 💪 Opened PR [#4](https://github.com/TechForPalestine/badges/pull/4) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
+4. ❗️ Opened issue [#3](https://github.com/webkeyz/stand-with-palestine/issues/3) in [webkeyz/stand-with-palestine](https://github.com/webkeyz/stand-with-palestine)
+5. ❗️ Opened issue [#1](https://github.com/FreePalestine1948/Boycott/issues/1) in [FreePalestine1948/Boycott](https://github.com/FreePalestine1948/Boycott)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
