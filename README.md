@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/webkeyz/stand-with-palestine/issues/3) in [webkeyz/stand-with-palestine](https://github.com/webkeyz/stand-with-palestine)
-2. 🗣 Commented on [#10](https://github.com/TechForPalestine/antipalestinian-vc-funds/issues/10) in [TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)
-3. 🎉 Merged PR [#9](https://github.com/TechForPalestine/antipalestinian-vc-funds/pull/9) in [TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)
-4. ❗️ Opened issue [#5](https://github.com/TechForPalestine/badges/issues/5) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
-5. 🎉 Merged PR [#4](https://github.com/TechForPalestine/badges/pull/4) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
+1. ❗️ Opened issue [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
+2. ❗️ Opened issue [#7](https://github.com/TechForPalestine/badges/issues/7) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
+3. 🗣 Commented on [#3](https://github.com/webkeyz/stand-with-palestine/issues/3) in [webkeyz/stand-with-palestine](https://github.com/webkeyz/stand-with-palestine)
+4. 🗣 Commented on [#10](https://github.com/TechForPalestine/antipalestinian-vc-funds/issues/10) in [TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)
+5. 🎉 Merged PR [#9](https://github.com/TechForPalestine/antipalestinian-vc-funds/pull/9) in [TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
