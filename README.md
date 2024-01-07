@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
-2. ❗️ Opened issue [#7](https://github.com/TechForPalestine/badges/issues/7) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
-3. 🗣 Commented on [#3](https://github.com/webkeyz/stand-with-palestine/issues/3) in [webkeyz/stand-with-palestine](https://github.com/webkeyz/stand-with-palestine)
-4. 🗣 Commented on [#10](https://github.com/TechForPalestine/antipalestinian-vc-funds/issues/10) in [TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)
-5. 🎉 Merged PR [#9](https://github.com/TechForPalestine/antipalestinian-vc-funds/pull/9) in [TechForPalestine/antipalestinian-vc-funds](https://github.com/TechForPalestine/antipalestinian-vc-funds)
+1. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
+2. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
+3. ❗️ Opened issue [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
+4. ❗️ Opened issue [#7](https://github.com/TechForPalestine/badges/issues/7) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
+5. 🗣 Commented on [#3](https://github.com/webkeyz/stand-with-palestine/issues/3) in [webkeyz/stand-with-palestine](https://github.com/webkeyz/stand-with-palestine)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
