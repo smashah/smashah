@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
-3. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
-4. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
-5. ❗️ Opened issue [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
+1. ❗️ Opened issue [#3163](https://github.com/open-wa/wa-automate-nodejs/issues/3163) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#3162](https://github.com/open-wa/wa-automate-nodejs/issues/3162) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
+5. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
