@@ -10,11 +10,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
-2. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
+1. ❗️ Opened issue [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
 3. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
-4. ❗️ Opened issue [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
-5. ❗️ Opened issue [#7](https://github.com/TechForPalestine/badges/issues/7) in [TechForPalestine/badges](https://github.com/TechForPalestine/badges)
+4. 🗣 Commented on [#4](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset/issues/4) in [TechForPalestine/boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset)
+5. ❗️ Opened issue [#7](https://github.com/aborazmeh/awesome-palestine/issues/7) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
