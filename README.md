@@ -12,11 +12,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#3163](https://github.com/open-wa/wa-automate-nodejs/issues/3163) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#3162](https://github.com/open-wa/wa-automate-nodejs/issues/3162) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#4](https://github.com/TechForPalestine/palestine-banner/issues/4) in [TechForPalestine/palestine-banner](https://github.com/TechForPalestine/palestine-banner)
+2. 💪 Opened PR [#1](https://github.com/PurpShell/purpshell/pull/1) in [PurpShell/purpshell](https://github.com/PurpShell/purpshell)
+3. 🗣 Commented on [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#3161](https://github.com/open-wa/wa-automate-nodejs/issues/3161) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#3163](https://github.com/open-wa/wa-automate-nodejs/issues/3163) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
