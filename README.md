@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 <h1 align="center">Hi 👋, I'm Mohammed Shah</h1>
 <h3 align="center">Full Stack Dev based out of London</h3>
 
