@@ -12,11 +12,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/TechForPalestine/tfp-discord/issues/7) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-2. ❗️ Opened issue [#6](https://github.com/TechForPalestine/tfp-discord/issues/6) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-3. ❗️ Closed issue [#3](https://github.com/TechForPalestine/tfp-discord/issues/3) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-4. ❗️ Closed issue [#4](https://github.com/TechForPalestine/tfp-discord/issues/4) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-5. ❗️ Closed issue [#5](https://github.com/TechForPalestine/tfp-discord/issues/5) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
+1. ❗️ Opened issue [#8](https://github.com/TechForPalestine/tfp-discord/issues/8) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
+2. ❗️ Opened issue [#7](https://github.com/TechForPalestine/tfp-discord/issues/7) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
+3. ❗️ Opened issue [#6](https://github.com/TechForPalestine/tfp-discord/issues/6) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
+4. ❗️ Closed issue [#3](https://github.com/TechForPalestine/tfp-discord/issues/3) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
+5. ❗️ Closed issue [#4](https://github.com/TechForPalestine/tfp-discord/issues/4) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
