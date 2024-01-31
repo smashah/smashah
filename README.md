@@ -12,11 +12,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/TechForPalestine/tfp-discord/issues/7) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-2. ❗️ Closed issue [#6](https://github.com/TechForPalestine/tfp-discord/issues/6) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-3. ❗️ Closed issue [#8](https://github.com/TechForPalestine/tfp-discord/issues/8) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-4. ❗️ Opened issue [#8](https://github.com/TechForPalestine/tfp-discord/issues/8) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
-5. ❗️ Opened issue [#7](https://github.com/TechForPalestine/tfp-discord/issues/7) in [TechForPalestine/tfp-discord](https://github.com/TechForPalestine/tfp-discord)
+1. 🗣 Commented on [#5208](https://github.com/Unitech/pm2/issues/5208) in [Unitech/pm2](https://github.com/Unitech/pm2)
+2. ❗️ Opened issue [#2](https://github.com/TechForPalestine/policy/issues/2) in [TechForPalestine/policy](https://github.com/TechForPalestine/policy)
+3. 🗣 Commented on [#1](https://github.com/TechForPalestine/offline-chat-app/issues/1) in [TechForPalestine/offline-chat-app](https://github.com/TechForPalestine/offline-chat-app)
+4. ❗️ Opened issue [#8](https://github.com/smashah/smashblock/issues/8) in [smashah/smashblock](https://github.com/smashah/smashblock)
+5. 🗣 Commented on [#4](https://github.com/TechForPalestine/palestine-banner/issues/4) in [TechForPalestine/palestine-banner](https://github.com/TechForPalestine/palestine-banner)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
