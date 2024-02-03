@@ -12,11 +12,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool/issues/11) in [ece-mohammad/B.O.G-basic-name-search-tool](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool)
-2. 🗣 Commented on [#9](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool/issues/9) in [ece-mohammad/B.O.G-basic-name-search-tool](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool)
-3. 🗣 Commented on [#5208](https://github.com/Unitech/pm2/issues/5208) in [Unitech/pm2](https://github.com/Unitech/pm2)
-4. ❗️ Opened issue [#2](https://github.com/TechForPalestine/policy/issues/2) in [TechForPalestine/policy](https://github.com/TechForPalestine/policy)
-5. 🗣 Commented on [#1](https://github.com/TechForPalestine/offline-chat-app/issues/1) in [TechForPalestine/offline-chat-app](https://github.com/TechForPalestine/offline-chat-app)
+1. 🗣 Commented on [#9](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool/issues/9) in [ece-mohammad/B.O.G-basic-name-search-tool](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool)
+2. 🗣 Commented on [#11](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool/issues/11) in [ece-mohammad/B.O.G-basic-name-search-tool](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool)
+3. 🗣 Commented on [#9](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool/issues/9) in [ece-mohammad/B.O.G-basic-name-search-tool](https://github.com/ece-mohammad/B.O.G-basic-name-search-tool)
+4. 🗣 Commented on [#5208](https://github.com/Unitech/pm2/issues/5208) in [Unitech/pm2](https://github.com/Unitech/pm2)
+5. ❗️ Opened issue [#2](https://github.com/TechForPalestine/policy/issues/2) in [TechForPalestine/policy](https://github.com/TechForPalestine/policy)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
