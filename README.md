@@ -26,8 +26,6 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.4%20million%20lines%20of%20code-blue)
@@ -42,42 +40,6 @@
  > 
 > 🔑 31 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14604 commits       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-🌆 Daytime                19853 commits       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-🌃 Evening                16916 commits       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-🌙 Night                  16092 commits       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   8835 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Tuesday                  12235 commits       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Wednesday                9948 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Thursday                 10343 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Friday                   9700 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Saturday                 8171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   8233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -91,7 +53,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 00:19:42 UTC
+ Last Updated on 12/04/2024 00:18:45 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
