@@ -36,8 +36,6 @@
 
 > 📦 303.9 kB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -93,7 +91,7 @@ Roff                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2024 00:24:50 UTC
+ Last Updated on 18/06/2024 00:21:33 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
