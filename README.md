@@ -12,11 +12,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3232](https://github.com/open-wa/wa-automate-nodejs/issues/3232) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Closed issue [#3231](https://github.com/open-wa/wa-automate-nodejs/issues/3231) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#3231](https://github.com/open-wa/wa-automate-nodejs/issues/3231) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#3231](https://github.com/open-wa/wa-automate-nodejs/issues/3231) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Reopened issue [#3231](https://github.com/open-wa/wa-automate-nodejs/issues/3231) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Closed issue [#1](https://github.com/smashah/gumroad-js/issues/1) in [smashah/gumroad-js](https://github.com/smashah/gumroad-js)
+2. ❗️ Opened issue [#1](https://github.com/smashah/gumroad-js/issues/1) in [smashah/gumroad-js](https://github.com/smashah/gumroad-js)
+3. ❗️ Opened issue [#3232](https://github.com/open-wa/wa-automate-nodejs/issues/3232) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Closed issue [#3231](https://github.com/open-wa/wa-automate-nodejs/issues/3231) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3231](https://github.com/open-wa/wa-automate-nodejs/issues/3231) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
