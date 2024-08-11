@@ -1,0 +1,104 @@
+name: Job Offer
+description: Interested in having me join your team? Submit your offer here!
+title: "[JOB OFFER]: <Company Name> - <Position Title>"
+labels: ["job-offer", "hiring"]
+assignees:
+  - smashah
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in having me, Mohammed Shah, join your team! I'm a Full Stack Developer based in London with extensive experience in various technologies. Please fill out the details below to submit your job offer.
+  - type: input
+    id: company
+    attributes:
+      label: Company Name
+      description: What's the name of your awesome company?
+      placeholder: e.g. TechCorp Inc.
+    validations:
+      required: true
+  - type: input
+    id: position
+    attributes:
+      label: Position Title
+      description: What role do you envision for me?
+      placeholder: e.g. Senior Full Stack Developer
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Job Description
+      description: What would I be doing in this role? What are the key responsibilities?
+      placeholder: In this role, you would be responsible for...
+    validations:
+      required: true
+  - type: dropdown
+    id: employment_type
+    attributes:
+      label: Employment Type
+      options:
+        - Full-time
+        - Part-time
+        - Contract
+        - Freelance
+    validations:
+      required: true
+  - type: dropdown
+    id: location
+    attributes:
+      label: Location
+      options:
+        - On-site in London
+        - Remote
+        - Hybrid
+    validations:
+      required: true
+  - type: input
+    id: salary
+    attributes:
+      label: Compensation
+      description: What's the compensation range for this position?
+      placeholder: e.g. £80,000 - £100,000 per annum
+    validations:
+      required: true
+  - type: checkboxes
+    id: skills
+    attributes:
+      label: Required Skills
+      description: Which of my skills are most relevant for this position?
+      options:
+        - label: JavaScript
+        - label: TypeScript
+        - label: Node.js
+        - label: React
+        - label: AWS
+        - label: Docker
+        - label: Kubernetes
+        - label: MongoDB
+        - label: PostgreSQL
+        - label: Python
+  - type: textarea
+    id: why_me
+    attributes:
+      label: Why Me?
+      description: What makes you think I'd be a great fit for your team?
+      placeholder: We believe you'd be an excellent addition to our team because...
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Information
+      description: How can I get in touch with you?
+      placeholder: e.g. recruiter@techcorp.com or +44 123 456 7890
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this job offer, you agree to respect my time and provide a fair evaluation process
+      options:
+        - label: I agree to follow ethical hiring practices and provide timely responses
+          required: true
