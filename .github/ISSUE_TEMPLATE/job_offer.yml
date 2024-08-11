@@ -66,24 +66,46 @@ body:
     id: skills
     attributes:
       label: Required Skills
-      description: Which of my skills are most relevant for this position?
+      description: Which of my skill areas are most relevant for this position?
       options:
-        - label: JavaScript
-        - label: TypeScript
-        - label: Node.js
-        - label: React
-        - label: AWS
-        - label: Docker
-        - label: Kubernetes
-        - label: MongoDB
-        - label: PostgreSQL
-        - label: Python
+        - label: Front-end Development
+        - label: Back-end Development
+        - label: Full-stack Development
+        - label: Mobile App Development
+        - label: Database Management
+        - label: Cloud Computing
+        - label: DevOps
+        - label: CI/CD
+        - label: API Development & Integration
+        - label: UI/UX Design
+        - label: System Architecture
+        - label: Data Analysis
+        - label: LLM Integrations
+        - label: ETL
+        - label: Security & Authentication
+        - label: Performance and Cost Optimization
+        - label: Scalability & High Availability
+        - label: Microservices Architecture
+        - label: Containerization
+        - label: Version Control
+        - label: Data and Information Compliance
+        - label: Project Management
+        - label: Documentation & Developer Relations
+        - label: Agile Methodologies
   - type: textarea
-    id: why_me
+    id: additional_requirements
     attributes:
-      label: Why Me?
-      description: What makes you think I'd be a great fit for your team?
-      placeholder: We believe you'd be an excellent addition to our team because...
+      label: Additional Requirements
+      description: Are there any other specific requirements or qualifications for this role?
+      placeholder: e.g. Specific certifications, years of experience, etc.
+    validations:
+      required: false
+  - type: textarea
+    id: company_fit
+    attributes:
+      label: Why Your Company?
+      description: What makes your company a great place to work? Why should I consider joining your team?
+      placeholder: Our company offers...
     validations:
       required: true
   - type: input
