@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smashah" alt="smashah" /> </p>
 
 <p align="center" style="position: relative;display: block;">
+<a href="https://github.com/smashah/smashah/issues/new?assignees=smashah&labels=job-offer%2Chiring&projects=&template=job_offer.yml&title=%5BJOB+OFFER%5D%3A+%3CCompany+Name%3E+-+%3CPosition+Title%3E">
   <img src="img/hirenow.svg" alt="Hire Me" width="400" height="300" />
+</a>
 </p>
 
 🔭 I’m currently working on new ideas

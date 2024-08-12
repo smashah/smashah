@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for your interest in having me, Mohammed Shah, join your team! I'm a Full Stack Developer based in London with extensive experience in various technologies. Please fill out the details below to submit your job offer.
+        Thanks for your interest in having me, Mohammed Shah, join your team! I'm a Full Stack Developer based in London with extensive experience in various technologies. Please fill out the details below to submit your job offer. Or if you'd like more discretion, email me at shah+hire@idk.uno
   - type: input
     id: company
     attributes:
