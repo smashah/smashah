@@ -6,10 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smashah" alt="smashah" /> </p>
 
 <p align="center" style="position: relative;display: block;">
-  <!-- <img src="img/button.svg?t=12311111" alt="Hire Me" width="400" height="300" /> -->
-  <img src="img/yt1.svg?t=12311111" alt="Hire Me" style="padding: 3px;z-index: 1; border-radius: 22px; position: absolute; overflow: hidden; top: -3px; left: -3px; bottom: -3px; right: -3px;" />
-  <img src="img/yt1.svg?t=12311111" alt="Hire Me" style="padding: 3px;-webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);-webkit-mask-composite: xor;mask-composite: exclude;z-index: 1; border-radius: 22px; position: absolute; overflow: hidden; top: -3px; left: -3px; bottom: -3px; right: -3px;" />
-  <img src="img/yt2.svg?t=12311111" alt="Hire Me" width="400" height="300" style=" position: absolute; z-index: 2; border-radius: 18px; inset: 0; overflow: hidden; opacity: 0; display: flex; transition: opacity .3s ease; justify-content: center; align-items: center;pointer-events: none;" />
+  <img src="img/hirenow.svg" alt="Hire Me" width="400" height="300" />
 </p>
 
 🔭 I’m currently working on new ideas

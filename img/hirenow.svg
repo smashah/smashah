@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="96" viewBox="0 0 256 96">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="0" dy="4" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <linearGradient id="rainbow"
+      cx="0.5"
+      cy="0.5"
+      r="0.4"
+      fx="0.75"
+      fy="0.75"
+      spreadMethod="reflect">
+      <stop offset="0%" stop-color="#FF4500"/>
+      <stop offset="8%" stop-color="#FF8C00"/>
+      <stop offset="16%" stop-color="#FFA500"/>
+      <stop offset="24%" stop-color="#FFD700"/>
+      <stop offset="32%" stop-color="#FFFF00"/>
+      <stop offset="40%" stop-color="#9ACD32"/>
+      <stop offset="48%" stop-color="#00FF00"/>
+      <stop offset="56%" stop-color="#00FA9A"/>
+      <stop offset="64%" stop-color="#00FFFF"/>
+      <stop offset="72%" stop-color="#1E90FF"/>
+      <stop offset="80%" stop-color="#0000FF"/>
+      <stop offset="88%" stop-color="#8A2BE2"/>
+      <stop offset="96%" stop-color="#FF00FF"/>
+      <stop offset="100%" stop-color="#FF1493"/>
+    </linearGradient>
+    
+    <clipPath id="borderClip">
+      <rect x="8" y="8" width="240" height="80" rx="16" ry="16" />
+    </clipPath>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <style>
+
+ @keyframes rotate{
+    from{
+       transform: rotate(0deg);}to{
+       transform: rotate(3turn);
+    }
+ }
+
+    @keyframes moveGradient {
+      <!-- 0% { transform: translateX(0); } -->
+      100% { transform: rotate(4turn);}
+    }
+
+    @keyframes buttonPulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.02); opacity: 0.9; }
+    }
+
+    .moving-gradient {
+      transform-origin: center;
+        animation: rotate 10s ease-in-out infinite alternate;
+        transform-origin: 50% 50%;
+        transform-box: fill-box;
+
+    }
+    
+    #button {
+      animation: buttonPulse 2s ease-in-out infinite;
+    }
+  </style>
+  
+  <g filter="url(#shadow)">
+    <!-- Static border -->
+    <rect x="8" y="8" width="240" height="80" rx="16" ry="16" fill="none" stroke="url(#rainbow)" stroke-width="1"/>
+    
+    <!-- Animated border -->
+    <g clip-path="url(#borderClip)">
+    <!-- <g> -->
+      <g class="moving-gradient">
+        <rect x="140" y="-400" width="800" height="800" fill="none" stroke="url(#rainbow)" stroke-width="400"/>
+      </g>
+    </g>
+    
+    <rect x="12" y="12" width="232" height="72" rx="12" ry="12" fill="#151320"/>
+    <text x="128" y="51" font-family="Poppins, sans-serif" font-size="24" font-weight="500" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" filter="url(#glow)">Hire Shah!</text>
+  </g>
+  
+  <rect id="button" x="0" y="0" width="256" height="96" fill="transparent" style="cursor: pointer;"/>
+</svg>
