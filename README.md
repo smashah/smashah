@@ -34,13 +34,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 304.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 479 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -97,7 +99,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2024 00:22:43 UTC
+ Last Updated on 01/09/2024 00:25:28 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
