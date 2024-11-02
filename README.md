@@ -1,10 +1,10 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 
 <h1 align="center">Hi 👋, I'm Mohammed Shah</h1>
-<h3 align="center">Full Stack Dev based out of London</h3>
+<h3 align="center">Full Stack OSS Dev based out of London. Maintainer of <a href="https://github.com/open-wa/wa-automate-nodejs">@open-wa</a> (3k+ stars)</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smashah" alt="smashah" /> </p>
-
+<p>Check out <a href="https://github.com/cve-earth">cve.earth</a></p>
 <p align="center" style="position: relative;display: block;">
 <a href="https://github.com/smashah/smashah/issues/new?assignees=smashah&labels=job-offer%2Chiring&projects=&template=job_offer.yml&title=%5BJOB+OFFER%5D%3A+%3CCompany+Name%3E+-+%3CPosition+Title%3E">
   <img src="img/hirenow.svg" alt="Hire Me" width="400" height="300" />
