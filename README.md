@@ -32,9 +32,7 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%207%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.7%20million%20lines%20of%20code-blue)
 
@@ -42,7 +40,7 @@
 
 > 📦 310.9 kB Used in GitHub's Storage 
  > 
-> 🏆 662 Contributions in the Year 2024
+> 🏆 667 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -50,42 +48,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14797 commits       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-🌆 Daytime                20236 commits       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-🌃 Evening                17242 commits       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-🌙 Night                  16495 commits       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   9109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Tuesday                  12429 commits       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Wednesday                9890 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 10608 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   9984 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Saturday                 8371 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Sunday                   8379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,7 +61,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 00:28:32 UTC
+ Last Updated on 04/11/2024 00:24:44 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
