@@ -18,10 +18,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1743](https://github.com/langchain-ai/langchainjs/issues/1743) in [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)
-2. ❗️ Closed issue [#3253](https://github.com/open-wa/wa-automate-nodejs/issues/3253) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Closed issue [#3252](https://github.com/open-wa/wa-automate-nodejs/issues/3252) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#3253](https://github.com/open-wa/wa-automate-nodejs/issues/3253) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#3256](https://github.com/open-wa/wa-automate-nodejs/issues/3256) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1743](https://github.com/langchain-ai/langchainjs/issues/1743) in [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)
+3. ❗️ Closed issue [#3253](https://github.com/open-wa/wa-automate-nodejs/issues/3253) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Closed issue [#3252](https://github.com/open-wa/wa-automate-nodejs/issues/3252) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 5. 🗣 Commented on [#3253](https://github.com/open-wa/wa-automate-nodejs/issues/3253) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
