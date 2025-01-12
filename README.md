@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/aleju/imgaug/issues/864) in [aleju/imgaug](https://github.com/aleju/imgaug)
-2. 🗣 Commented on [#3598](https://github.com/cloudflare/workers-sdk/issues/3598) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
-3. 🗣 Commented on [#3248](https://github.com/drizzle-team/drizzle-orm/issues/3248) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-4. 🗣 Commented on [#8281](https://github.com/vercel/turborepo/issues/8281) in [vercel/turborepo](https://github.com/vercel/turborepo)
-5. 🗣 Commented on [#485](https://github.com/opencontainers/distribution-spec/issues/485) in [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec)
+1. 🗣 Commented on [#12730](https://github.com/oven-sh/bun/issues/12730) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#864](https://github.com/aleju/imgaug/issues/864) in [aleju/imgaug](https://github.com/aleju/imgaug)
+3. 🗣 Commented on [#3598](https://github.com/cloudflare/workers-sdk/issues/3598) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+4. 🗣 Commented on [#3248](https://github.com/drizzle-team/drizzle-orm/issues/3248) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+5. 🗣 Commented on [#8281](https://github.com/vercel/turborepo/issues/8281) in [vercel/turborepo](https://github.com/vercel/turborepo)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
