@@ -18,10 +18,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12730](https://github.com/oven-sh/bun/issues/12730) in [oven-sh/bun](https://github.com/oven-sh/bun)
-2. ❗️ Opened issue [#3263](https://github.com/open-wa/wa-automate-nodejs/issues/3263) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#3262](https://github.com/open-wa/wa-automate-nodejs/issues/3262) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#16135](https://github.com/iterate-ch/cyberduck/issues/16135) in [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck)
+1. ❗️ Opened issue [#3264](https://github.com/open-wa/wa-automate-nodejs/issues/3264) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#12730](https://github.com/oven-sh/bun/issues/12730) in [oven-sh/bun](https://github.com/oven-sh/bun)
+3. ❗️ Opened issue [#3263](https://github.com/open-wa/wa-automate-nodejs/issues/3263) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#3262](https://github.com/open-wa/wa-automate-nodejs/issues/3262) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 5. 🗣 Commented on [#16135](https://github.com/iterate-ch/cyberduck/issues/16135) in [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck)
 <!--END_SECTION:activity-->
 
