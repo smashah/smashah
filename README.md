@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1567](https://github.com/triggerdotdev/trigger.dev/issues/1567) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
-2. ❗️ Closed issue [#3267](https://github.com/open-wa/wa-automate-nodejs/issues/3267) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#3263](https://github.com/open-wa/wa-automate-nodejs/issues/3263) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#412](https://github.com/lightpanda-io/browser/issues/412) in [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-5. ❗️ Opened issue [#3264](https://github.com/open-wa/wa-automate-nodejs/issues/3264) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 💪 Opened PR [#1702](https://github.com/triggerdotdev/trigger.dev/pull/1702) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+2. 🗣 Commented on [#1567](https://github.com/triggerdotdev/trigger.dev/issues/1567) in [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+3. ❗️ Closed issue [#3267](https://github.com/open-wa/wa-automate-nodejs/issues/3267) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#3263](https://github.com/open-wa/wa-automate-nodejs/issues/3263) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#412](https://github.com/lightpanda-io/browser/issues/412) in [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
