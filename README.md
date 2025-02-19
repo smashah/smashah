@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3264](https://github.com/open-wa/wa-automate-nodejs/issues/3264) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#3264](https://github.com/open-wa/wa-automate-nodejs/issues/3264) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#1502](https://github.com/openreplay/openreplay/issues/1502) in [openreplay/openreplay](https://github.com/openreplay/openreplay)
-4. 🗣 Commented on [#259](https://github.com/CapSoftware/Cap/issues/259) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
-5. 🗣 Commented on [#28](https://github.com/ahmedkhaleel2004/gitdiagram/issues/28) in [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+1. ❗️ Opened issue [#3272](https://github.com/open-wa/wa-automate-nodejs/issues/3272) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#3271](https://github.com/open-wa/wa-automate-nodejs/issues/3271) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#3270](https://github.com/open-wa/wa-automate-nodejs/issues/3270) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#3264](https://github.com/open-wa/wa-automate-nodejs/issues/3264) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3264](https://github.com/open-wa/wa-automate-nodejs/issues/3264) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
