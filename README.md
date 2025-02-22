@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6443](https://github.com/shadcn-ui/ui/issues/6443) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. ❗️ Opened issue [#3273](https://github.com/open-wa/wa-automate-nodejs/issues/3273) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#3272](https://github.com/open-wa/wa-automate-nodejs/issues/3272) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#3271](https://github.com/open-wa/wa-automate-nodejs/issues/3271) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#3270](https://github.com/open-wa/wa-automate-nodejs/issues/3270) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#6386](https://github.com/shadcn-ui/ui/issues/6386) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#6443](https://github.com/shadcn-ui/ui/issues/6443) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. ❗️ Opened issue [#3273](https://github.com/open-wa/wa-automate-nodejs/issues/3273) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#3272](https://github.com/open-wa/wa-automate-nodejs/issues/3272) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#3271](https://github.com/open-wa/wa-automate-nodejs/issues/3271) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
