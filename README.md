@@ -42,8 +42,6 @@
 
 > 📦 359.3 kB Used in GitHub's Storage 
  > 
-> 🏆 136 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 57 Public Repositories 
@@ -77,14 +75,13 @@ Sunday                   8381 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    0 secs              ███████████████████████░░   90.19 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +97,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2025 00:32:43 UTC
+ Last Updated on 02/03/2025 00:27:13 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
