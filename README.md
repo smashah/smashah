@@ -18,9 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#503](https://github.com/Opteo/google-ads-api/issues/503) in [Opteo/google-ads-api](https://github.com/Opteo/google-ads-api)
-2. ❗️ Opened issue [#2](https://github.com/ich777/unraid-ugreenleds-driver/issues/2) in [ich777/unraid-ugreenleds-driver](https://github.com/ich777/unraid-ugreenleds-driver)
-3. ❗️ Closed issue [#3278](https://github.com/open-wa/wa-automate-nodejs/issues/3278) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#3271](https://github.com/open-wa/wa-automate-nodejs/issues/3271) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#503](https://github.com/Opteo/google-ads-api/issues/503) in [Opteo/google-ads-api](https://github.com/Opteo/google-ads-api)
+3. ❗️ Opened issue [#2](https://github.com/ich777/unraid-ugreenleds-driver/issues/2) in [ich777/unraid-ugreenleds-driver](https://github.com/ich777/unraid-ugreenleds-driver)
 4. 🗣 Commented on [#6386](https://github.com/shadcn-ui/ui/issues/6386) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 5. 🗣 Commented on [#6443](https://github.com/shadcn-ui/ui/issues/6443) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--END_SECTION:activity-->
