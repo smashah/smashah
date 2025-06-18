@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/divyam234/next-auth-hono-react/issues/2) in [divyam234/next-auth-hono-react](https://github.com/divyam234/next-auth-hono-react)
-2. 🗣 Commented on [#1031](https://github.com/TanStack/router/issues/1031) in [TanStack/router](https://github.com/TanStack/router)
-3. 🗣 Commented on [#3271](https://github.com/open-wa/wa-automate-nodejs/issues/3271) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#2](https://github.com/ich777/unraid-ugreenleds-driver/issues/2) in [ich777/unraid-ugreenleds-driver](https://github.com/ich777/unraid-ugreenleds-driver)
-5. 🗣 Commented on [#6443](https://github.com/shadcn-ui/ui/issues/6443) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. ❗️ Closed issue [#3288](https://github.com/open-wa/wa-automate-nodejs/issues/3288) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3288](https://github.com/open-wa/wa-automate-nodejs/issues/3288) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#3287](https://github.com/open-wa/wa-automate-nodejs/issues/3287) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Closed issue [#3287](https://github.com/open-wa/wa-automate-nodejs/issues/3287) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3270](https://github.com/open-wa/wa-automate-nodejs/issues/3270) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
