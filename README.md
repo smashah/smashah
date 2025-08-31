@@ -32,6 +32,8 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.1%20million%20lines%20of%20code-blue)
@@ -40,7 +42,7 @@
 
 > 📦 363.5 kB Used in GitHub's Storage 
  > 
-> 🏆 416 Contributions in the Year 2025
+> 🏆 418 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,6 +50,42 @@
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16479 commits       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+🌆 Daytime                22902 commits       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+🌃 Evening                19676 commits       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+🌙 Night                  18695 commits       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   10286 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Tuesday                  13926 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Wednesday                11143 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 11973 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Friday                   11280 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Saturday                 9601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Sunday                   9543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -61,7 +99,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 00:28:20 UTC
+ Last Updated on 31/08/2025 00:30:18 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
