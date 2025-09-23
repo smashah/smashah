@@ -32,74 +32,36 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 365.4 kB Used in GitHub's Storage 
+> 📦 366.1 kB Used in GitHub's Storage 
  > 
-> 🏆 450 Contributions in the Year 2025
+> 🏆 468 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 57 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                16454 commits       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-🌆 Daytime                22885 commits       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-🌃 Evening                19656 commits       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-🌙 Night                  18643 commits       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   10270 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Tuesday                  13892 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Wednesday                11130 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 11961 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Friday                   11257 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Saturday                 9595 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Sunday                   9533 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               37 repos            ███████████░░░░░░░░░░░░░░   42.05 % 
-JavaScript               26 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript               38 repos            ███████████░░░░░░░░░░░░░░   42.70 % 
+JavaScript               26 repos            ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
 
 
- Last Updated on 22/09/2025 00:30:59 UTC
+ Last Updated on 23/09/2025 00:28:24 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
