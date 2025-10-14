@@ -19,8 +19,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6997](https://github.com/refinedev/refine/issues/6997) in [refinedev/refine](https://github.com/refinedev/refine)
-2. 🗣 Commented on [#72](https://github.com/open-wa/wa-automate-docker/issues/72) in [open-wa/wa-automate-docker](https://github.com/open-wa/wa-automate-docker)
-3. 🗣 Commented on [#3303](https://github.com/open-wa/wa-automate-nodejs/issues/3303) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#221](https://github.com/voidcosmos/npkill/issues/221) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
+3. 🗣 Commented on [#188](https://github.com/voidcosmos/npkill/issues/188) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
 4. 🗣 Commented on [#3304](https://github.com/open-wa/wa-automate-nodejs/issues/3304) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 5. ❗️ Closed issue [#3304](https://github.com/open-wa/wa-automate-nodejs/issues/3304) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
