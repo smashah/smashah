@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#202](https://github.com/TanStack/create-tsrouter-app/issues/202) in [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app)
-2. 🗣 Commented on [#6997](https://github.com/refinedev/refine/issues/6997) in [refinedev/refine](https://github.com/refinedev/refine)
-3. 🗣 Commented on [#221](https://github.com/voidcosmos/npkill/issues/221) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
-4. 🗣 Commented on [#188](https://github.com/voidcosmos/npkill/issues/188) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
-5. ❗️ Closed issue [#3304](https://github.com/open-wa/wa-automate-nodejs/issues/3304) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#202](https://github.com/TanStack/create-tsrouter-app/issues/202) in [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app)
+3. 🗣 Commented on [#6997](https://github.com/refinedev/refine/issues/6997) in [refinedev/refine](https://github.com/refinedev/refine)
+4. 🗣 Commented on [#221](https://github.com/voidcosmos/npkill/issues/221) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
+5. 🗣 Commented on [#188](https://github.com/voidcosmos/npkill/issues/188) in [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
