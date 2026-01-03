@@ -32,17 +32,15 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C625%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.74%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 525.4 kB Used in GitHub's Storage 
+> 📦 525.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 18 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,42 +48,6 @@
  > 
 > 🔑 56 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                17153 commits       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-🌆 Daytime                23993 commits       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-🌃 Evening                20778 commits       ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌙 Night                  19519 commits       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   10746 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Tuesday                  14637 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Wednesday                11659 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 12628 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Friday                   11774 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Saturday                 10018 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Sunday                   9981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +61,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 00:34:06 UTC
+ Last Updated on 03/01/2026 00:31:34 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
