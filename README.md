@@ -32,22 +32,60 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C626%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.92%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.12%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 523.6 kB Used in GitHub's Storage 
+> 📦 404.7 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2026
+> 🏆 35 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 58 Public Repositories 
  > 
-> 🔑 56 Private Repositories 
+> 🔑 55 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                17200 commits       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌆 Daytime                24060 commits       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+🌃 Evening                20850 commits       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+🌙 Night                  19582 commits       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   10771 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Tuesday                  14693 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Wednesday                11706 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 12672 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Friday                   11812 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Saturday                 10054 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   9984 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -61,7 +99,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:39:03 UTC
+ Last Updated on 05/01/2026 00:35:57 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
