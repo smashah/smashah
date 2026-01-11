@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/remorses/kimaki/issues/8) in [remorses/kimaki](https://github.com/remorses/kimaki)
-2. 🗣 Commented on [#390](https://github.com/hassio-addons/addon-wireguard/issues/390) in [hassio-addons/addon-wireguard](https://github.com/hassio-addons/addon-wireguard)
-3. ❗️ Opened issue [#10](https://github.com/kedom1337/hono-rpc-query/issues/10) in [kedom1337/hono-rpc-query](https://github.com/kedom1337/hono-rpc-query)
-4. ❗️ Opened issue [#42](https://github.com/nrjdalal/gitpick/issues/42) in [nrjdalal/gitpick](https://github.com/nrjdalal/gitpick)
-5. 🗣 Commented on [#3787](https://github.com/anomalyco/opencode/issues/3787) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. 🗣 Commented on [#1267](https://github.com/anomalyco/opencode/issues/1267) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 💪 Opened PR [#1](https://github.com/smashah/printy-mobile/pull/1) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+3. ❗️ Opened issue [#8](https://github.com/remorses/kimaki/issues/8) in [remorses/kimaki](https://github.com/remorses/kimaki)
+4. 🗣 Commented on [#390](https://github.com/hassio-addons/addon-wireguard/issues/390) in [hassio-addons/addon-wireguard](https://github.com/hassio-addons/addon-wireguard)
+5. ❗️ Opened issue [#10](https://github.com/kedom1337/hono-rpc-query/issues/10) in [kedom1337/hono-rpc-query](https://github.com/kedom1337/hono-rpc-query)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
