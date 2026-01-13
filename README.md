@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/Eugeny/tabby-web/issues/116) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-2. ❌ Merged PR [#2](https://github.com/smashah/printy-mobile/pull/2) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-3. 💪 Opened PR [#2](https://github.com/smashah/printy-mobile/pull/2) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-4. ❌ Merged PR [#1](https://github.com/smashah/printy-mobile/pull/1) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-5. 🗣 Commented on [#11832](https://github.com/cloudflare/workers-sdk/issues/11832) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+1. ❗️ Opened issue [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
+2. 🗣 Commented on [#116](https://github.com/Eugeny/tabby-web/issues/116) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
+3. ❌ Merged PR [#2](https://github.com/smashah/printy-mobile/pull/2) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+4. 💪 Opened PR [#2](https://github.com/smashah/printy-mobile/pull/2) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+5. ❌ Merged PR [#1](https://github.com/smashah/printy-mobile/pull/1) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
