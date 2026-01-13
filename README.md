@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
-2. 💪 Opened PR [#2](https://github.com/0x416c69/tabby-warpgate/pull/2) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
-3. ❗️ Opened issue [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
-4. 🗣 Commented on [#116](https://github.com/Eugeny/tabby-web/issues/116) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-5. ❌ Merged PR [#2](https://github.com/smashah/printy-mobile/pull/2) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+1. 🗣 Commented on [#63](https://github.com/Mirrowel/LLM-API-Key-Proxy/issues/63) in [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)
+2. 🗣 Commented on [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
+3. 💪 Opened PR [#2](https://github.com/0x416c69/tabby-warpgate/pull/2) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
+4. ❗️ Opened issue [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
+5. 🗣 Commented on [#116](https://github.com/Eugeny/tabby-web/issues/116) in [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
