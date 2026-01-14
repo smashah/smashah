@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#642](https://github.com/BloopAI/vibe-kanban/issues/642) in [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
-2. 🗣 Commented on [#63](https://github.com/Mirrowel/LLM-API-Key-Proxy/issues/63) in [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)
-3. 🗣 Commented on [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
-4. 💪 Opened PR [#2](https://github.com/0x416c69/tabby-warpgate/pull/2) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
-5. ❗️ Opened issue [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
+1. ❗️ Opened issue [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+2. 🗣 Commented on [#642](https://github.com/BloopAI/vibe-kanban/issues/642) in [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+3. 🗣 Commented on [#63](https://github.com/Mirrowel/LLM-API-Key-Proxy/issues/63) in [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)
+4. 🗣 Commented on [#1](https://github.com/0x416c69/tabby-warpgate/issues/1) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
+5. 💪 Opened PR [#2](https://github.com/0x416c69/tabby-warpgate/pull/2) in [0x416c69/tabby-warpgate](https://github.com/0x416c69/tabby-warpgate)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
