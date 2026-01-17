@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
-2. ❗️ Closed issue [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
-3. 🗣 Commented on [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
-4. 🗣 Commented on [#26136](https://github.com/oven-sh/bun/issues/26136) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. 🗣 Commented on [#7602](https://github.com/anomalyco/opencode/issues/7602) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. ❗️ Closed issue [#3319](https://github.com/open-wa/wa-automate-nodejs/issues/3319) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3319](https://github.com/open-wa/wa-automate-nodejs/issues/3319) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+4. ❗️ Closed issue [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+5. 🗣 Commented on [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
