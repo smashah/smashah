@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26136](https://github.com/oven-sh/bun/issues/26136) in [oven-sh/bun](https://github.com/oven-sh/bun)
-2. 🗣 Commented on [#7602](https://github.com/anomalyco/opencode/issues/7602) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. ❗️ Opened issue [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
-4. 🗣 Commented on [#642](https://github.com/BloopAI/vibe-kanban/issues/642) in [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
-5. 🗣 Commented on [#63](https://github.com/Mirrowel/LLM-API-Key-Proxy/issues/63) in [Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)
+1. ❗️ Opened issue [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+2. ❗️ Closed issue [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+3. 🗣 Commented on [#27](https://github.com/iHildy/opencode-synced/issues/27) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+4. 🗣 Commented on [#26136](https://github.com/oven-sh/bun/issues/26136) in [oven-sh/bun](https://github.com/oven-sh/bun)
+5. 🗣 Commented on [#7602](https://github.com/anomalyco/opencode/issues/7602) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
