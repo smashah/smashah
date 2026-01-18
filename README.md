@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/sickn33/antigravity-awesome-skills/issues/4) in [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
-2. ❗️ Opened issue [#20](https://github.com/usetrmnl/trmnl-display/issues/20) in [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display)
-3. ❗️ Closed issue [#3319](https://github.com/open-wa/wa-automate-nodejs/issues/3319) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#3319](https://github.com/open-wa/wa-automate-nodejs/issues/3319) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+1. 🗣 Commented on [#2107](https://github.com/BloopAI/vibe-kanban/issues/2107) in [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+2. ❗️ Opened issue [#4](https://github.com/sickn33/antigravity-awesome-skills/issues/4) in [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
+3. ❗️ Opened issue [#20](https://github.com/usetrmnl/trmnl-display/issues/20) in [usetrmnl/trmnl-display](https://github.com/usetrmnl/trmnl-display)
+4. ❗️ Closed issue [#3319](https://github.com/open-wa/wa-automate-nodejs/issues/3319) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3319](https://github.com/open-wa/wa-automate-nodejs/issues/3319) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
