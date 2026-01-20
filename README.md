@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
-2. 🗣 Commented on [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
-3. ❗️ Opened issue [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
-4. 🗣 Commented on [#8729](https://github.com/anomalyco/opencode/issues/8729) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-5. 🗣 Commented on [#2107](https://github.com/BloopAI/vibe-kanban/issues/2107) in [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
+1. 🗣 Commented on [#5999](https://github.com/shadcn-ui/ui/issues/5999) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. ❗️ Closed issue [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
+3. 🗣 Commented on [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
+4. ❗️ Opened issue [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
+5. 🗣 Commented on [#8729](https://github.com/anomalyco/opencode/issues/8729) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
