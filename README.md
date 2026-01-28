@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#962](https://github.com/code-yeongyu/oh-my-opencode/issues/962) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-2. 🗣 Commented on [#674](https://github.com/code-yeongyu/oh-my-opencode/issues/674) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-3. 🗣 Commented on [#5999](https://github.com/shadcn-ui/ui/issues/5999) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. ❗️ Closed issue [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
-5. 🗣 Commented on [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
+1. ❗️ Opened issue [#101](https://github.com/NeuralNomadsAI/CodeNomad/issues/101) in [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
+2. 🗣 Commented on [#962](https://github.com/code-yeongyu/oh-my-opencode/issues/962) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+3. 🗣 Commented on [#674](https://github.com/code-yeongyu/oh-my-opencode/issues/674) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+4. 🗣 Commented on [#5999](https://github.com/shadcn-ui/ui/issues/5999) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. ❗️ Closed issue [#9](https://github.com/JosXa/permachine/issues/9) in [JosXa/permachine](https://github.com/JosXa/permachine)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
