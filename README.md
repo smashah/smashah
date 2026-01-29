@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
-2. 🗣 Commented on [#101](https://github.com/NeuralNomadsAI/CodeNomad/issues/101) in [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
-3. ❗️ Opened issue [#101](https://github.com/NeuralNomadsAI/CodeNomad/issues/101) in [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
-4. 🗣 Commented on [#962](https://github.com/code-yeongyu/oh-my-opencode/issues/962) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-5. 🗣 Commented on [#674](https://github.com/code-yeongyu/oh-my-opencode/issues/674) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+2. 🗣 Commented on [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
+3. 🗣 Commented on [#101](https://github.com/NeuralNomadsAI/CodeNomad/issues/101) in [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
+4. ❗️ Opened issue [#101](https://github.com/NeuralNomadsAI/CodeNomad/issues/101) in [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
+5. 🗣 Commented on [#962](https://github.com/code-yeongyu/oh-my-opencode/issues/962) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
