@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
-2. 🗣 Commented on [#28](https://github.com/iHildy/opencode-synced/issues/28) in [iHildy/opencode-synced](https://github.com/iHildy/opencode-synced)
-3. 🗣 Commented on [#101](https://github.com/NeuralNomadsAI/CodeNomad/issues/101) in [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
-4. ❗️ Opened issue [#101](https://github.com/NeuralNomadsAI/CodeNomad/issues/101) in [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
-5. 🗣 Commented on [#962](https://github.com/code-yeongyu/oh-my-opencode/issues/962) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+1. ❗️ Opened issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. ❗️ Opened issue [#6](https://github.com/smashah/receipthero-ng/issues/6) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. ❗️ Opened issue [#5](https://github.com/smashah/receipthero-ng/issues/5) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+4. ❗️ Opened issue [#4](https://github.com/smashah/receipthero-ng/issues/4) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. ❗️ Opened issue [#3](https://github.com/smashah/receipthero-ng/issues/3) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
