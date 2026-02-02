@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1264](https://github.com/code-yeongyu/oh-my-opencode/issues/1264) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-2. ❗️ Opened issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. ❗️ Opened issue [#6](https://github.com/smashah/receipthero-ng/issues/6) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. ❗️ Opened issue [#5](https://github.com/smashah/receipthero-ng/issues/5) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-5. ❗️ Opened issue [#4](https://github.com/smashah/receipthero-ng/issues/4) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+1. 🗣 Commented on [#12351](https://github.com/cloudflare/workers-sdk/issues/12351) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+2. ❗️ Opened issue [#12351](https://github.com/cloudflare/workers-sdk/issues/12351) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+3. 🗣 Commented on [#1264](https://github.com/code-yeongyu/oh-my-opencode/issues/1264) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+4. ❗️ Opened issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. ❗️ Opened issue [#6](https://github.com/smashah/receipthero-ng/issues/6) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
