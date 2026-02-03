@@ -32,36 +32,74 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C626%20hrs%2011%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 540.4 kB Used in GitHub's Storage 
+> 📦 546.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,101 Contributions in the Year 2026
+> 🏆 1,170 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 61 Public Repositories 
+> 📜 62 Public Repositories 
  > 
-> 🔑 61 Private Repositories 
+> 🔑 62 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23906 commits       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+🌆 Daytime                34754 commits       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌃 Evening                30987 commits       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+🌙 Night                  28832 commits       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   15581 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Tuesday                  20753 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Wednesday                17144 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Thursday                 18334 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Friday                   17035 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Saturday                 14808 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   14824 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               58 repos            █████████████░░░░░░░░░░░░   51.33 % 
-JavaScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TypeScript               61 repos            █████████████░░░░░░░░░░░░   52.59 % 
+JavaScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 
 
 
- Last Updated on 02/02/2026 00:42:21 UTC
+ Last Updated on 03/02/2026 00:55:14 UTC
 <!--END_SECTION:waka-->
 
 ### Testimonials
