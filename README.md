@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. ❌ Merged PR [#9](https://github.com/smashah/receipthero-ng/pull/9) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. ❗️ Closed issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. ❌ Merged PR [#8](https://github.com/smashah/receipthero-ng/pull/8) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-5. 💪 Opened PR [#9](https://github.com/smashah/receipthero-ng/pull/9) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. ❌ Merged PR [#9](https://github.com/smashah/receipthero-ng/pull/9) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+4. ❗️ Closed issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. ❌ Merged PR [#8](https://github.com/smashah/receipthero-ng/pull/8) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
