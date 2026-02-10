@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/smashah/receipthero-ng/pull/8) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. 🗣 Commented on [#1206](https://github.com/code-yeongyu/oh-my-opencode/issues/1206) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-4. 🗣 Commented on [#9324](https://github.com/cloudflare/workers-sdk/issues/9324) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
-5. 🗣 Commented on [#891](https://github.com/code-yeongyu/oh-my-opencode/issues/891) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+1. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. ❌ Merged PR [#9](https://github.com/smashah/receipthero-ng/pull/9) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. ❗️ Closed issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+4. ❌ Merged PR [#8](https://github.com/smashah/receipthero-ng/pull/8) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. 💪 Opened PR [#9](https://github.com/smashah/receipthero-ng/pull/9) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
