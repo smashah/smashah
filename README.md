@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. ❌ Merged PR [#9](https://github.com/smashah/receipthero-ng/pull/9) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. ❗️ Closed issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-5. ❌ Merged PR [#8](https://github.com/smashah/receipthero-ng/pull/8) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+1. ❗️ Labeled issue [#4988](https://github.com/Mintplex-Labs/anything-llm/issues/4988) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+2. ❗️ Labeled issue [#4988](https://github.com/Mintplex-Labs/anything-llm/issues/4988) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+3. ❗️ Opened issue [#4988](https://github.com/Mintplex-Labs/anything-llm/issues/4988) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+4. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
