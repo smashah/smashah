@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/remorses/kimaki/issues/38) in [remorses/kimaki](https://github.com/remorses/kimaki)
-2. 💪 Opened PR [#10](https://github.com/smashah/receipthero-ng/pull/10) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. ❗️ Opened issue [#38](https://github.com/remorses/kimaki/issues/38) in [remorses/kimaki](https://github.com/remorses/kimaki)
-5. ❗️ Labeled issue [#1142](https://github.com/marcusquinn/aidevops/issues/1142) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+1. ❗️ Closed issue [#5](https://github.com/smashah/receipthero-ng/issues/5) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. ❌ Merged PR [#10](https://github.com/smashah/receipthero-ng/pull/10) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. 🗣 Commented on [#38](https://github.com/remorses/kimaki/issues/38) in [remorses/kimaki](https://github.com/remorses/kimaki)
+4. 💪 Opened PR [#10](https://github.com/smashah/receipthero-ng/pull/10) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
