@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12688](https://github.com/anomalyco/opencode/issues/12688) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. ❗️ Reopened issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. 🗣 Commented on [#12342](https://github.com/anomalyco/opencode/issues/12342) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-5. 🗣 Commented on [#1815](https://github.com/code-yeongyu/oh-my-opencode/issues/1815) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+1. ❗️ Labeled issue [#1510](https://github.com/marcusquinn/aidevops/issues/1510) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+2. ❗️ Opened issue [#1510](https://github.com/marcusquinn/aidevops/issues/1510) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+3. 🗣 Commented on [#12688](https://github.com/anomalyco/opencode/issues/12688) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. ❗️ Reopened issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
