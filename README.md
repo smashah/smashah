@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#200](https://github.com/NoeFabris/opencode-antigravity-auth/issues/200) in [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
-2. ❗️ Labeled issue [#1510](https://github.com/marcusquinn/aidevops/issues/1510) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
-3. ❗️ Opened issue [#1510](https://github.com/marcusquinn/aidevops/issues/1510) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
-4. 🗣 Commented on [#12688](https://github.com/anomalyco/opencode/issues/12688) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-5. ❗️ Reopened issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+1. 🗣 Commented on [#1510](https://github.com/marcusquinn/aidevops/issues/1510) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+2. 🗣 Commented on [#7](https://github.com/smashah/quran.sh/issues/7) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+3. 🗣 Commented on [#200](https://github.com/NoeFabris/opencode-antigravity-auth/issues/200) in [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
+4. ❗️ Labeled issue [#1510](https://github.com/marcusquinn/aidevops/issues/1510) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+5. ❗️ Opened issue [#1510](https://github.com/marcusquinn/aidevops/issues/1510) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
