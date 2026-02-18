@@ -18,10 +18,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/smashah/receipthero-ng/issues/4) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. ❌ Merged PR [#11](https://github.com/smashah/receipthero-ng/pull/11) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. 💪 Opened PR [#11](https://github.com/smashah/receipthero-ng/pull/11) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. 🗣 Commented on [#4](https://github.com/smashah/receipthero-ng/issues/4) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+1. ❗️ Opened issue [#12](https://github.com/smashah/receipthero-ng/issues/12) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. ❗️ Closed issue [#4](https://github.com/smashah/receipthero-ng/issues/4) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. ❌ Merged PR [#11](https://github.com/smashah/receipthero-ng/pull/11) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+4. 💪 Opened PR [#11](https://github.com/smashah/receipthero-ng/pull/11) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 5. 🗣 Commented on [#4](https://github.com/smashah/receipthero-ng/issues/4) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
