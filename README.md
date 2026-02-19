@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. ❗️ Closed issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. ❗️ Closed issue [#13](https://github.com/smashah/receipthero-ng/issues/13) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. 🗣 Commented on [#426](https://github.com/NoeFabris/opencode-antigravity-auth/issues/426) in [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
-5. ❗️ Opened issue [#13](https://github.com/smashah/receipthero-ng/issues/13) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+1. ❗️ Opened issue [#11](https://github.com/smashah/quran.sh/issues/11) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+2. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. 🗣 Commented on [#92](https://github.com/anomalyco/opentui/issues/92) in [anomalyco/opentui](https://github.com/anomalyco/opentui)
+4. 🗣 Commented on [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. ❗️ Closed issue [#7](https://github.com/smashah/receipthero-ng/issues/7) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
