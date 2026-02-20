@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/smashah/quran.sh/issues/10) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-2. ❗️ Closed issue [#11](https://github.com/smashah/quran.sh/issues/11) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-3. ❗️ Opened issue [#12](https://github.com/smashah/quran.sh/issues/12) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-4. 🗣 Commented on [#11](https://github.com/smashah/quran.sh/issues/11) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-5. ❗️ Labeled issue [#14404](https://github.com/anomalyco/opencode/issues/14404) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 🗣 Commented on [#10](https://github.com/smashah/quran.sh/issues/10) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+3. ❗️ Closed issue [#11](https://github.com/smashah/quran.sh/issues/11) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+4. ❗️ Opened issue [#12](https://github.com/smashah/quran.sh/issues/12) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+5. 🗣 Commented on [#11](https://github.com/smashah/quran.sh/issues/11) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
