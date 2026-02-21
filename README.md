@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+1. ❌ Closed PR [#13](https://github.com/smashah/quran.sh/pull/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 2. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-3. 🗣 Commented on [#2](https://github.com/smashah/quran.sh/issues/2) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-4. ❗️ Closed issue [#2](https://github.com/smashah/quran.sh/issues/2) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-5. ❗️ Closed issue [#12](https://github.com/smashah/quran.sh/issues/12) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+3. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+4. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+5. 🗣 Commented on [#2](https://github.com/smashah/quran.sh/issues/2) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
