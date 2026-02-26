@@ -18,9 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
-2. ❌ Closed PR [#13](https://github.com/smashah/quran.sh/pull/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-3. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+1. 🗣 Commented on [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
+2. ❗️ Opened issue [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
+3. ❌ Closed PR [#13](https://github.com/smashah/quran.sh/pull/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 4. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 5. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 <!--END_SECTION:activity-->
