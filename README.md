@@ -20,9 +20,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
 2. 🗣 Commented on [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
-3. ❗️ Opened issue [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
-4. ❌ Closed PR [#13](https://github.com/smashah/quran.sh/pull/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-5. 🗣 Commented on [#13](https://github.com/smashah/quran.sh/issues/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+3. 🗣 Commented on [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
+4. ❗️ Opened issue [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
+5. ❌ Closed PR [#13](https://github.com/smashah/quran.sh/pull/13) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
