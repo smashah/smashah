@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2721](https://github.com/marcusquinn/aidevops/issues/2721) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
-2. ❗️ Opened issue [#2721](https://github.com/marcusquinn/aidevops/issues/2721) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
-3. 🗣 Commented on [#1142](https://github.com/marcusquinn/aidevops/issues/1142) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
-4. ❗️ Opened issue [#2690](https://github.com/marcusquinn/aidevops/issues/2690) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
-5. 🗣 Commented on [#426](https://github.com/NoeFabris/opencode-antigravity-auth/issues/426) in [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)
+1. 🗣 Commented on [#2728](https://github.com/marcusquinn/aidevops/issues/2728) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+2. 🗣 Commented on [#2728](https://github.com/marcusquinn/aidevops/issues/2728) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+3. 🗣 Commented on [#2721](https://github.com/marcusquinn/aidevops/issues/2721) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+4. ❗️ Opened issue [#2721](https://github.com/marcusquinn/aidevops/issues/2721) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
+5. 🗣 Commented on [#1142](https://github.com/marcusquinn/aidevops/issues/1142) in [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
