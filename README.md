@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12993](https://github.com/cli/cli/issues/12993) in [cli/cli](https://github.com/cli/cli)
-2. 🗣 Commented on [#118](https://github.com/numman-ali/opencode-openai-codex-auth/issues/118) in [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth)
-3. 🗣 Commented on [#116](https://github.com/numman-ali/opencode-openai-codex-auth/issues/116) in [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth)
-4. 🗣 Commented on [#142](https://github.com/department-for-transport-public/D-TRO/issues/142) in [department-for-transport-public/D-TRO](https://github.com/department-for-transport-public/D-TRO)
-5. 🗣 Commented on [#3](https://github.com/paperclipai/paperclip/issues/3) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+1. ❗️ Closed issue [#3323](https://github.com/open-wa/wa-automate-nodejs/issues/3323) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#3323](https://github.com/open-wa/wa-automate-nodejs/issues/3323) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#12993](https://github.com/cli/cli/issues/12993) in [cli/cli](https://github.com/cli/cli)
+4. 🗣 Commented on [#118](https://github.com/numman-ali/opencode-openai-codex-auth/issues/118) in [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth)
+5. 🗣 Commented on [#116](https://github.com/numman-ali/opencode-openai-codex-auth/issues/116) in [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
