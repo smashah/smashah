@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10448](https://github.com/polarsource/polar/issues/10448) in [polarsource/polar](https://github.com/polarsource/polar)
-2. 🗣 Commented on [#3787](https://github.com/anomalyco/opencode/issues/3787) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. ❗️ Closed issue [#3323](https://github.com/open-wa/wa-automate-nodejs/issues/3323) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#3323](https://github.com/open-wa/wa-automate-nodejs/issues/3323) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#12993](https://github.com/cli/cli/issues/12993) in [cli/cli](https://github.com/cli/cli)
+1. 🗣 Commented on [#4144](https://github.com/distribution/distribution/issues/4144) in [distribution/distribution](https://github.com/distribution/distribution)
+2. 🗣 Commented on [#10448](https://github.com/polarsource/polar/issues/10448) in [polarsource/polar](https://github.com/polarsource/polar)
+3. 🗣 Commented on [#3787](https://github.com/anomalyco/opencode/issues/3787) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. ❗️ Closed issue [#3323](https://github.com/open-wa/wa-automate-nodejs/issues/3323) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3323](https://github.com/open-wa/wa-automate-nodejs/issues/3323) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
