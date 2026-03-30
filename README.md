@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-2. ❗️ Opened issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-3. 🗣 Commented on [#4144](https://github.com/distribution/distribution/issues/4144) in [distribution/distribution](https://github.com/distribution/distribution)
-4. 🗣 Commented on [#10448](https://github.com/polarsource/polar/issues/10448) in [polarsource/polar](https://github.com/polarsource/polar)
-5. 🗣 Commented on [#3787](https://github.com/anomalyco/opencode/issues/3787) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. ❗️ Labeled issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
+2. ❗️ Opened issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
+3. ❗️ Labeled issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+4. ❗️ Opened issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+5. 🗣 Commented on [#4144](https://github.com/distribution/distribution/issues/4144) in [distribution/distribution](https://github.com/distribution/distribution)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
