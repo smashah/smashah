@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
-2. ❗️ Opened issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
-3. ❗️ Labeled issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-4. ❗️ Opened issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-5. 🗣 Commented on [#4144](https://github.com/distribution/distribution/issues/4144) in [distribution/distribution](https://github.com/distribution/distribution)
+1. 🗣 Commented on [#10909](https://github.com/anomalyco/opencode/issues/10909) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. ❗️ Labeled issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
+3. ❗️ Opened issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
+4. ❗️ Labeled issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+5. ❗️ Opened issue [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
