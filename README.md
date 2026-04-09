@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20650](https://github.com/anomalyco/opencode/issues/20650) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. 🗣 Commented on [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-3. 🗣 Commented on [#10909](https://github.com/anomalyco/opencode/issues/10909) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. ❗️ Labeled issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
-5. ❗️ Opened issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
+1. 🗣 Commented on [#16876](https://github.com/anomalyco/opencode/issues/16876) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 🗣 Commented on [#20650](https://github.com/anomalyco/opencode/issues/20650) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+3. 🗣 Commented on [#2961](https://github.com/code-yeongyu/oh-my-openagent/issues/2961) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+4. 🗣 Commented on [#10909](https://github.com/anomalyco/opencode/issues/10909) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. ❗️ Labeled issue [#328](https://github.com/robinebers/openusage/issues/328) in [robinebers/openusage](https://github.com/robinebers/openusage)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
