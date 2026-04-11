@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. 🗣 Commented on [#21943](https://github.com/anomalyco/opencode/issues/21943) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. 🗣 Commented on [#20650](https://github.com/anomalyco/opencode/issues/20650) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. 🗣 Commented on [#16](https://github.com/smashah/receipthero-ng/issues/16) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-5. 🗣 Commented on [#15](https://github.com/smashah/receipthero-ng/issues/15) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+1. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. 💪 Opened PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. 🗣 Commented on [#21943](https://github.com/anomalyco/opencode/issues/21943) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. 🗣 Commented on [#20650](https://github.com/anomalyco/opencode/issues/20650) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. 🗣 Commented on [#16](https://github.com/smashah/receipthero-ng/issues/16) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
