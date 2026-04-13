@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. 🗣 Commented on [#3](https://github.com/kommander/oc-plugin-vault-tec/issues/3) in [kommander/oc-plugin-vault-tec](https://github.com/kommander/oc-plugin-vault-tec)
-3. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. 💪 Opened PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-5. 🗣 Commented on [#21943](https://github.com/anomalyco/opencode/issues/21943) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. ❌ Merged PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+3. 🗣 Commented on [#3](https://github.com/kommander/oc-plugin-vault-tec/issues/3) in [kommander/oc-plugin-vault-tec](https://github.com/kommander/oc-plugin-vault-tec)
+4. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+5. 💪 Opened PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
