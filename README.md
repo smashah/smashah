@@ -18,10 +18,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16876](https://github.com/anomalyco/opencode/issues/16876) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. ❌ Merged PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-3. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-4. 🗣 Commented on [#3](https://github.com/kommander/oc-plugin-vault-tec/issues/3) in [kommander/oc-plugin-vault-tec](https://github.com/kommander/oc-plugin-vault-tec)
+1. 🗣 Commented on [#3327](https://github.com/open-wa/wa-automate-nodejs/issues/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 💪 Opened PR [#3327](https://github.com/open-wa/wa-automate-nodejs/pull/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#16876](https://github.com/anomalyco/opencode/issues/16876) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. ❌ Merged PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 5. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
