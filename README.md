@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3327](https://github.com/open-wa/wa-automate-nodejs/issues/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 💪 Opened PR [#3327](https://github.com/open-wa/wa-automate-nodejs/pull/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#16876](https://github.com/anomalyco/opencode/issues/16876) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. ❌ Merged PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-5. 🗣 Commented on [#17](https://github.com/smashah/receipthero-ng/issues/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
+2. 🗣 Commented on [#3327](https://github.com/open-wa/wa-automate-nodejs/issues/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 💪 Opened PR [#3327](https://github.com/open-wa/wa-automate-nodejs/pull/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#16876](https://github.com/anomalyco/opencode/issues/16876) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. ❌ Merged PR [#17](https://github.com/smashah/receipthero-ng/pull/17) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
