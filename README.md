@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46890](https://github.com/zed-industries/zed/issues/46890) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🗣 Commented on [#3327](https://github.com/open-wa/wa-automate-nodejs/issues/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#7](https://github.com/chaitanyya/sales/issues/7) in [chaitanyya/sales](https://github.com/chaitanyya/sales)
+2. 🗣 Commented on [#46890](https://github.com/zed-industries/zed/issues/46890) in [zed-industries/zed](https://github.com/zed-industries/zed)
 3. 🗣 Commented on [#3327](https://github.com/open-wa/wa-automate-nodejs/issues/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 4. 🗣 Commented on [#3327](https://github.com/open-wa/wa-automate-nodejs/issues/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 💪 Opened PR [#3327](https://github.com/open-wa/wa-automate-nodejs/pull/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3327](https://github.com/open-wa/wa-automate-nodejs/issues/3327) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
