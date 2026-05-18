@@ -18,9 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3334](https://github.com/open-wa/wa-automate-nodejs/pull/3334) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Opened issue [#130](https://github.com/remorses/kimaki/issues/130) in [remorses/kimaki](https://github.com/remorses/kimaki)
-3. 🗣 Commented on [#3333](https://github.com/open-wa/wa-automate-nodejs/issues/3333) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#3335](https://github.com/open-wa/wa-automate-nodejs/issues/3335) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❌ Closed PR [#3334](https://github.com/open-wa/wa-automate-nodejs/pull/3334) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#130](https://github.com/remorses/kimaki/issues/130) in [remorses/kimaki](https://github.com/remorses/kimaki)
 4. 🗣 Commented on [#3333](https://github.com/open-wa/wa-automate-nodejs/issues/3333) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 5. 🗣 Commented on [#3333](https://github.com/open-wa/wa-automate-nodejs/issues/3333) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
