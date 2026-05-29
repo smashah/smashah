@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3342](https://github.com/open-wa/wa-automate-nodejs/issues/3342) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#3341](https://github.com/open-wa/wa-automate-nodejs/issues/3341) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#3341](https://github.com/open-wa/wa-automate-nodejs/issues/3341) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#20650](https://github.com/anomalyco/opencode/issues/20650) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-5. 🗣 Commented on [#14](https://github.com/yazinsai/offline-tarteel/issues/14) in [yazinsai/offline-tarteel](https://github.com/yazinsai/offline-tarteel)
+1. 🗣 Commented on [#3343](https://github.com/open-wa/wa-automate-nodejs/issues/3343) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#3343](https://github.com/open-wa/wa-automate-nodejs/issues/3343) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#3342](https://github.com/open-wa/wa-automate-nodejs/issues/3342) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#3341](https://github.com/open-wa/wa-automate-nodejs/issues/3341) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#3341](https://github.com/open-wa/wa-automate-nodejs/issues/3341) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
