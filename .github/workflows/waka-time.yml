@@ -1,15 +1,38 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # Runs once a day at 12am UTC.
     - cron: "0 0 * * *"
 
+permissions:
+  actions: write
+  contents: write
+
+concurrency:
+  group: waka-readme
+  cancel-in-progress: true
+
 jobs:
+  timeout-guard:
+    name: Stop run after 10 seconds
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel if Waka update is still running
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 10
+          update_status=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/jobs" --jq '.jobs[] | select(.name == "Update this repo'"'"'s README") | .status')
+          if printf '%s\n' "${update_status}" | grep -qx completed; then
+            exit 0
+          fi
+          gh run cancel "${GITHUB_RUN_ID}" --repo "${GITHUB_REPOSITORY}"
+
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    timeout-minutes: 1
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
