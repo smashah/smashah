@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3348](https://github.com/open-wa/wa-automate-nodejs/issues/3348) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#3348](https://github.com/open-wa/wa-automate-nodejs/issues/3348) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#2167](https://github.com/rtk-ai/rtk/issues/2167) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-4. 🗣 Commented on [#1436](https://github.com/rtk-ai/rtk/issues/1436) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-5. 🗣 Commented on [#2060](https://github.com/rtk-ai/rtk/issues/2060) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+1. 🗣 Commented on [#26753](https://github.com/openai/codex/issues/26753) in [openai/codex](https://github.com/openai/codex)
+2. ❗️ Closed issue [#3348](https://github.com/open-wa/wa-automate-nodejs/issues/3348) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#3348](https://github.com/open-wa/wa-automate-nodejs/issues/3348) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#2167](https://github.com/rtk-ai/rtk/issues/2167) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+5. 🗣 Commented on [#1436](https://github.com/rtk-ai/rtk/issues/1436) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
