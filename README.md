@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3346](https://github.com/open-wa/wa-automate-nodejs/issues/3346) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#3346](https://github.com/open-wa/wa-automate-nodejs/issues/3346) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#3330](https://github.com/open-wa/wa-automate-nodejs/issues/3330) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#5392](https://github.com/alphagov/govuk-design-system/issues/5392) in [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system)
-5. 🗣 Commented on [#26753](https://github.com/openai/codex/issues/26753) in [openai/codex](https://github.com/openai/codex)
+1. ❗️ Opened issue [#3357](https://github.com/open-wa/wa-automate-nodejs/issues/3357) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Closed issue [#3346](https://github.com/open-wa/wa-automate-nodejs/issues/3346) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#3346](https://github.com/open-wa/wa-automate-nodejs/issues/3346) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#3330](https://github.com/open-wa/wa-automate-nodejs/issues/3330) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#5392](https://github.com/alphagov/govuk-design-system/issues/5392) in [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
