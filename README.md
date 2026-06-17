@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3357](https://github.com/open-wa/wa-automate-nodejs/issues/3357) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Closed issue [#3346](https://github.com/open-wa/wa-automate-nodejs/issues/3346) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 🗣 Commented on [#3346](https://github.com/open-wa/wa-automate-nodejs/issues/3346) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#3330](https://github.com/open-wa/wa-automate-nodejs/issues/3330) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#5392](https://github.com/alphagov/govuk-design-system/issues/5392) in [alphagov/govuk-design-system](https://github.com/alphagov/govuk-design-system)
+1. ❌ Closed PR [#2259](https://github.com/open-wa/wa-automate-nodejs/pull/2259) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❌ Closed PR [#3059](https://github.com/open-wa/wa-automate-nodejs/pull/3059) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❌ Closed PR [#3046](https://github.com/open-wa/wa-automate-nodejs/pull/3046) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❌ Closed PR [#3054](https://github.com/open-wa/wa-automate-nodejs/pull/3054) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❌ Closed PR [#3039](https://github.com/open-wa/wa-automate-nodejs/pull/3039) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
