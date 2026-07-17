@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7](https://github.com/smashah/traicer/pull/7) in [smashah/traicer](https://github.com/smashah/traicer)
-2. 💪 Opened PR [#7](https://github.com/smashah/traicer/pull/7) in [smashah/traicer](https://github.com/smashah/traicer)
-3. ❌ Merged PR [#6](https://github.com/smashah/traicer/pull/6) in [smashah/traicer](https://github.com/smashah/traicer)
-4. 💪 Opened PR [#6](https://github.com/smashah/traicer/pull/6) in [smashah/traicer](https://github.com/smashah/traicer)
-5. ❌ Merged PR [#5](https://github.com/smashah/traicer/pull/5) in [smashah/traicer](https://github.com/smashah/traicer)
+1. ❗️ Labeled issue [#20](https://github.com/smashah/traicer/issues/20) in [smashah/traicer](https://github.com/smashah/traicer)
+2. ❗️ Labeled issue [#21](https://github.com/smashah/traicer/issues/21) in [smashah/traicer](https://github.com/smashah/traicer)
+3. ❗️ Opened issue [#20](https://github.com/smashah/traicer/issues/20) in [smashah/traicer](https://github.com/smashah/traicer)
+4. ❗️ Opened issue [#21](https://github.com/smashah/traicer/issues/21) in [smashah/traicer](https://github.com/smashah/traicer)
+5. ❗️ Labeled issue [#19](https://github.com/smashah/traicer/issues/19) in [smashah/traicer](https://github.com/smashah/traicer)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
