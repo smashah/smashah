@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/smashah/traicer/pull/29) in [smashah/traicer](https://github.com/smashah/traicer)
-2. ❌ Closed PR [#27](https://github.com/smashah/traicer/pull/27) in [smashah/traicer](https://github.com/smashah/traicer)
-3. ❌ Merged PR [#28](https://github.com/smashah/traicer/pull/28) in [smashah/traicer](https://github.com/smashah/traicer)
-4. 💪 Opened PR [#28](https://github.com/smashah/traicer/pull/28) in [smashah/traicer](https://github.com/smashah/traicer)
-5. 💪 Opened PR [#27](https://github.com/smashah/traicer/pull/27) in [smashah/traicer](https://github.com/smashah/traicer)
+1. ❌ Merged PR [#29](https://github.com/smashah/traicer/pull/29) in [smashah/traicer](https://github.com/smashah/traicer)
+2. 💪 Opened PR [#29](https://github.com/smashah/traicer/pull/29) in [smashah/traicer](https://github.com/smashah/traicer)
+3. ❌ Closed PR [#27](https://github.com/smashah/traicer/pull/27) in [smashah/traicer](https://github.com/smashah/traicer)
+4. ❌ Merged PR [#28](https://github.com/smashah/traicer/pull/28) in [smashah/traicer](https://github.com/smashah/traicer)
+5. 💪 Opened PR [#28](https://github.com/smashah/traicer/pull/28) in [smashah/traicer](https://github.com/smashah/traicer)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
