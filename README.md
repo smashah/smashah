@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#15](https://github.com/smashah/quran.sh/pull/15) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-2. 💪 Opened PR [#15](https://github.com/smashah/quran.sh/pull/15) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-3. ❌ Closed PR [#30](https://github.com/smashah/traicer/pull/30) in [smashah/traicer](https://github.com/smashah/traicer)
-4. 🗣 Commented on [#30](https://github.com/smashah/traicer/issues/30) in [smashah/traicer](https://github.com/smashah/traicer)
-5. 🗣 Commented on [#945](https://github.com/filecxx/FileCentipede/issues/945) in [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede)
+1. ❗️ Labeled issue [#16](https://github.com/smashah/quran.sh/issues/16) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+2. ❗️ Opened issue [#16](https://github.com/smashah/quran.sh/issues/16) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+3. ❌ Merged PR [#15](https://github.com/smashah/quran.sh/pull/15) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+4. 💪 Opened PR [#15](https://github.com/smashah/quran.sh/pull/15) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+5. ❌ Closed PR [#30](https://github.com/smashah/traicer/pull/30) in [smashah/traicer](https://github.com/smashah/traicer)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
