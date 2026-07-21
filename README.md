@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#945](https://github.com/filecxx/FileCentipede/issues/945) in [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede)
-2. ❌ Merged PR [#29](https://github.com/smashah/traicer/pull/29) in [smashah/traicer](https://github.com/smashah/traicer)
-3. 💪 Opened PR [#29](https://github.com/smashah/traicer/pull/29) in [smashah/traicer](https://github.com/smashah/traicer)
-4. ❌ Closed PR [#27](https://github.com/smashah/traicer/pull/27) in [smashah/traicer](https://github.com/smashah/traicer)
-5. ❌ Merged PR [#28](https://github.com/smashah/traicer/pull/28) in [smashah/traicer](https://github.com/smashah/traicer)
+1. 🗣 Commented on [#945](https://github.com/filecxx/FileCentipede/issues/945) in [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede)
+2. 💪 Opened PR [#30](https://github.com/smashah/traicer/pull/30) in [smashah/traicer](https://github.com/smashah/traicer)
+3. 🗣 Commented on [#945](https://github.com/filecxx/FileCentipede/issues/945) in [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede)
+4. ❗️ Opened issue [#945](https://github.com/filecxx/FileCentipede/issues/945) in [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede)
+5. ❌ Merged PR [#29](https://github.com/smashah/traicer/pull/29) in [smashah/traicer](https://github.com/smashah/traicer)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
