@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/smashah/quran.sh/issues/16) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-2. ❗️ Unlabeled issue [#34](https://github.com/smashah/quran.sh/issues/34) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-3. ❗️ Labeled issue [#16](https://github.com/smashah/quran.sh/issues/16) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-4. ❗️ Labeled issue [#34](https://github.com/smashah/quran.sh/issues/34) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-5. ❗️ Labeled issue [#34](https://github.com/smashah/quran.sh/issues/34) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+2. ❗️ Closed issue [#16](https://github.com/smashah/quran.sh/issues/16) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+3. 🗣 Commented on [#34](https://github.com/smashah/quran.sh/issues/34) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+4. ❗️ Closed issue [#34](https://github.com/smashah/quran.sh/issues/34) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
+5. 🗣 Commented on [#33](https://github.com/smashah/quran.sh/issues/33) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
