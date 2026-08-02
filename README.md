@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](https://github.com/alexk111/node-red-node-typescript-starter/pull/3) in [alexk111/node-red-node-typescript-starter](https://github.com/alexk111/node-red-node-typescript-starter)
-2. ❌ Labeled PR [#3390](https://github.com/open-wa/wa-automate-nodejs/pull/3390) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 💪 Opened PR [#3390](https://github.com/open-wa/wa-automate-nodejs/pull/3390) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Closed issue [#3385](https://github.com/open-wa/wa-automate-nodejs/issues/3385) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Closed issue [#3385](https://github.com/open-wa/wa-automate-nodejs/issues/3385) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+2. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+3. ❗️ Opened issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+4. ❌ Merged PR [#3](https://github.com/alexk111/node-red-node-typescript-starter/pull/3) in [alexk111/node-red-node-typescript-starter](https://github.com/alexk111/node-red-node-typescript-starter)
+5. ❌ Labeled PR [#3390](https://github.com/open-wa/wa-automate-nodejs/pull/3390) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
