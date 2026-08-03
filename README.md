@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
-2. 🗣 Commented on [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-3. ❗️ Opened issue [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
-4. ❗️ Opened issue [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-5. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+2. 🗣 Commented on [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
+3. 🗣 Commented on [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+4. ❗️ Opened issue [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
+5. ❗️ Opened issue [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
