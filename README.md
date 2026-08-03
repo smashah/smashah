@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-2. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-3. ❗️ Opened issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-4. ❌ Merged PR [#3](https://github.com/alexk111/node-red-node-typescript-starter/pull/3) in [alexk111/node-red-node-typescript-starter](https://github.com/alexk111/node-red-node-typescript-starter)
-5. ❌ Labeled PR [#3390](https://github.com/open-wa/wa-automate-nodejs/pull/3390) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Unlabeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+3. 🗣 Commented on [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+4. ❗️ Closed issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+5. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
