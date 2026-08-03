@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-2. ❗️ Unlabeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-3. 🗣 Commented on [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-4. ❗️ Closed issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-5. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+1. ❗️ Opened issue [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
+2. ❗️ Opened issue [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+3. ❗️ Labeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+4. ❗️ Unlabeled issue [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+5. 🗣 Commented on [#3](https://github.com/smashah/printy-mobile/issues/3) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
