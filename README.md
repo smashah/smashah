@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
+1. ❗️ Opened issue [#32](https://github.com/smashah/traicer/issues/32) in [smashah/traicer](https://github.com/smashah/traicer)
 2. 🗣 Commented on [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
-3. 🗣 Commented on [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
-4. ❗️ Opened issue [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
-5. ❗️ Opened issue [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+3. 🗣 Commented on [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
+4. 🗣 Commented on [#4](https://github.com/smashah/printy-mobile/issues/4) in [smashah/printy-mobile](https://github.com/smashah/printy-mobile)
+5. ❗️ Opened issue [#31](https://github.com/smashah/traicer/issues/31) in [smashah/traicer](https://github.com/smashah/traicer)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
