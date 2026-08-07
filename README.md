@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/robinebers/openusage/issues/260) in [robinebers/openusage](https://github.com/robinebers/openusage)
-2. ❌ Merged PR [#35](https://github.com/smashah/quran.sh/pull/35) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-3. 🗣 Commented on [#35](https://github.com/smashah/quran.sh/issues/35) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-4. 💪 Opened PR [#35](https://github.com/smashah/quran.sh/pull/35) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-5. ❌ Merged PR [#37](https://github.com/smashah/traicer/pull/37) in [smashah/traicer](https://github.com/smashah/traicer)
+1. ❗️ Labeled issue [#3395](https://github.com/open-wa/wa-automate-nodejs/issues/3395) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Labeled issue [#3395](https://github.com/open-wa/wa-automate-nodejs/issues/3395) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#3395](https://github.com/open-wa/wa-automate-nodejs/issues/3395) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❌ Merged PR [#38](https://github.com/smashah/traicer/pull/38) in [smashah/traicer](https://github.com/smashah/traicer)
+5. 🗣 Commented on [#38](https://github.com/smashah/traicer/issues/38) in [smashah/traicer](https://github.com/smashah/traicer)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
