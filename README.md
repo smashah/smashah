@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/smashah/peardrop/issues/35) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. ❗️ Opened issue [#34](https://github.com/smashah/peardrop/issues/34) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❌ Merged PR [#32](https://github.com/smashah/peardrop/pull/32) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. 💪 Opened PR [#32](https://github.com/smashah/peardrop/pull/32) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❗️ Opened issue [#15103](https://github.com/cloudflare/workers-sdk/issues/15103) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+1. ❌ Merged PR [#37](https://github.com/smashah/peardrop/pull/37) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. ❗️ Closed issue [#36](https://github.com/smashah/peardrop/issues/36) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. 💪 Opened PR [#37](https://github.com/smashah/peardrop/pull/37) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❗️ Opened issue [#36](https://github.com/smashah/peardrop/issues/36) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Opened issue [#35](https://github.com/smashah/peardrop/issues/35) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
