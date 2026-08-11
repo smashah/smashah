@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#46](https://github.com/smashah/peardrop/issues/46) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. ❗️ Opened issue [#46](https://github.com/smashah/peardrop/issues/46) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❗️ Labeled issue [#4](https://github.com/smashah/peardrop/issues/4) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. ❗️ Labeled issue [#4](https://github.com/smashah/peardrop/issues/4) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❗️ Labeled issue [#4](https://github.com/smashah/peardrop/issues/4) in [smashah/peardrop](https://github.com/smashah/peardrop)
+1. 💪 Opened PR [#48](https://github.com/smashah/peardrop/pull/48) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. ❗️ Opened issue [#4173](https://github.com/expo/eas-cli/issues/4173) in [expo/eas-cli](https://github.com/expo/eas-cli)
+3. ❗️ Labeled issue [#47](https://github.com/smashah/peardrop/issues/47) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❗️ Labeled issue [#47](https://github.com/smashah/peardrop/issues/47) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Opened issue [#47](https://github.com/smashah/peardrop/issues/47) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
