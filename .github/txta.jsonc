@@ -1,0 +1,6 @@
+// Public txta.dev receiving preferences. No private keys or messages belong here.
+// Run "npx txtadev help" before editing.
+{
+  "version": 1,
+  "preferredSshFingerprint": "SHA256:ZpPpXWnhJtLMWBOv573p4DdCE3Uiu0UUqSp+org4tjY"
+}
