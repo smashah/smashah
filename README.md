@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/smashah/smashah/issues/8) in [smashah/smashah](https://github.com/smashah/smashah)
-2. ❗️ Opened issue [#7](https://github.com/smashah/smashah/issues/7) in [smashah/smashah](https://github.com/smashah/smashah)
-3. 🗣 Commented on [#11](https://github.com/smashah/agentring/issues/11) in [smashah/agentring](https://github.com/smashah/agentring)
-4. ❗️ Closed issue [#11](https://github.com/smashah/agentring/issues/11) in [smashah/agentring](https://github.com/smashah/agentring)
-5. ❌ Merged PR [#14](https://github.com/smashah/agentring/pull/14) in [smashah/agentring](https://github.com/smashah/agentring)
+1. ❗️ Opened issue [#1](https://github.com/TerminalKyle/TerminalKyle/issues/1) in [TerminalKyle/TerminalKyle](https://github.com/TerminalKyle/TerminalKyle)
+2. ❗️ Opened issue [#9](https://github.com/smashah/smashah/issues/9) in [smashah/smashah](https://github.com/smashah/smashah)
+3. ❗️ Opened issue [#8](https://github.com/smashah/smashah/issues/8) in [smashah/smashah](https://github.com/smashah/smashah)
+4. ❗️ Opened issue [#7](https://github.com/smashah/smashah/issues/7) in [smashah/smashah](https://github.com/smashah/smashah)
+5. 🗣 Commented on [#11](https://github.com/smashah/agentring/issues/11) in [smashah/agentring](https://github.com/smashah/agentring)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
