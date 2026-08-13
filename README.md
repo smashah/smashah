@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#73](https://github.com/smashah/peardrop/pull/73) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. 💪 Opened PR [#73](https://github.com/smashah/peardrop/pull/73) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❌ Merged PR [#71](https://github.com/smashah/peardrop/pull/71) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. 💪 Opened PR [#71](https://github.com/smashah/peardrop/pull/71) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❌ Merged PR [#69](https://github.com/smashah/peardrop/pull/69) in [smashah/peardrop](https://github.com/smashah/peardrop)
+1. ❌ Merged PR [#75](https://github.com/smashah/peardrop/pull/75) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. 💪 Opened PR [#75](https://github.com/smashah/peardrop/pull/75) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. ❌ Merged PR [#73](https://github.com/smashah/peardrop/pull/73) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. 💪 Opened PR [#73](https://github.com/smashah/peardrop/pull/73) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❌ Merged PR [#71](https://github.com/smashah/peardrop/pull/71) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
