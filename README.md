@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Calvin-LL/Calvin-LL/issues/1) in [Calvin-LL/Calvin-LL](https://github.com/Calvin-LL/Calvin-LL)
-2. 💪 Opened PR [#79](https://github.com/smashah/peardrop/pull/79) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. 🗣 Commented on [#10](https://github.com/smashah/agentring/issues/10) in [smashah/agentring](https://github.com/smashah/agentring)
-4. 🗣 Commented on [#3397](https://github.com/open-wa/wa-automate-nodejs/issues/3397) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Labeled issue [#3397](https://github.com/open-wa/wa-automate-nodejs/issues/3397) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❌ Merged PR [#80](https://github.com/smashah/peardrop/pull/80) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. 💪 Opened PR [#80](https://github.com/smashah/peardrop/pull/80) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. ❌ Merged PR [#79](https://github.com/smashah/peardrop/pull/79) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❗️ Opened issue [#1](https://github.com/Calvin-LL/Calvin-LL/issues/1) in [Calvin-LL/Calvin-LL](https://github.com/Calvin-LL/Calvin-LL)
+5. 💪 Opened PR [#79](https://github.com/smashah/peardrop/pull/79) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
