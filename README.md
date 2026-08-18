@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. ❗️ Opened issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❌ Merged PR [#84](https://github.com/smashah/peardrop/pull/84) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. 💪 Opened PR [#84](https://github.com/smashah/peardrop/pull/84) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❌ Merged PR [#82](https://github.com/smashah/peardrop/pull/82) in [smashah/peardrop](https://github.com/smashah/peardrop)
+1. 💪 Opened PR [#3399](https://github.com/open-wa/wa-automate-nodejs/pull/3399) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Labeled issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. ❗️ Opened issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❌ Merged PR [#84](https://github.com/smashah/peardrop/pull/84) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. 💪 Opened PR [#84](https://github.com/smashah/peardrop/pull/84) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
