@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3400](https://github.com/open-wa/wa-automate-nodejs/issues/3400) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Labeled issue [#3400](https://github.com/open-wa/wa-automate-nodejs/issues/3400) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Labeled issue [#3400](https://github.com/open-wa/wa-automate-nodejs/issues/3400) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 💪 Opened PR [#3399](https://github.com/open-wa/wa-automate-nodejs/pull/3399) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Opened issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. 💪 Opened PR [#3399](https://github.com/open-wa/wa-automate-nodejs/pull/3399) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Opened issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❌ Merged PR [#84](https://github.com/smashah/peardrop/pull/84) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Opened issue [#1](https://github.com/Calvin-LL/Calvin-LL/issues/1) in [Calvin-LL/Calvin-LL](https://github.com/Calvin-LL/Calvin-LL)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
