@@ -22,7 +22,7 @@
 2. 💪 Opened PR [#3399](https://github.com/open-wa/wa-automate-nodejs/pull/3399) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. ❗️ Opened issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
 4. ❗️ Opened issue [#1](https://github.com/Calvin-LL/Calvin-LL/issues/1) in [Calvin-LL/Calvin-LL](https://github.com/Calvin-LL/Calvin-LL)
-5. ❗️ Opened issue [#3397](https://github.com/open-wa/wa-automate-nodejs/issues/3397) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
