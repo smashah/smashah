@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3400](https://github.com/open-wa/wa-automate-nodejs/issues/3400) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 💪 Opened PR [#3399](https://github.com/open-wa/wa-automate-nodejs/pull/3399) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❗️ Opened issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❌ Closed PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
+1. ❗️ Opened issue [#86](https://github.com/smashah/peardrop/issues/86) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. ❗️ Opened issue [#3400](https://github.com/open-wa/wa-automate-nodejs/issues/3400) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 💪 Opened PR [#3399](https://github.com/open-wa/wa-automate-nodejs/pull/3399) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#85](https://github.com/smashah/peardrop/issues/85) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
