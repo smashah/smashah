@@ -21,8 +21,8 @@
 1. ❗️ Opened issue [#22](https://github.com/smashah/receipthero-ng/issues/22) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 2. ❗️ Opened issue [#3401](https://github.com/open-wa/wa-automate-nodejs/issues/3401) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. ❗️ Opened issue [#36](https://github.com/smashah/quran.sh/issues/36) in [smashah/quran.sh](https://github.com/smashah/quran.sh)
-4. ❗️ Opened issue [#86](https://github.com/smashah/peardrop/issues/86) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❌ Closed PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
