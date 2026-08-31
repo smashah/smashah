@@ -18,8 +18,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/smashah/receipthero-ng/issues/22) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
-2. ❗️ Opened issue [#3401](https://github.com/open-wa/wa-automate-nodejs/issues/3401) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. ❗️ Opened issue [#22](https://github.com/smashah/receipthero-ng/issues/22) in [smashah/receipthero-ng](https://github.com/smashah/receipthero-ng)
 3. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
 4. ❌ Closed PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
 5. ❌ Closed PR [#43](https://github.com/smashah/peardrop/pull/43) in [smashah/peardrop](https://github.com/smashah/peardrop)
