@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#88](https://github.com/smashah/peardrop/issues/88) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. 🗣 Commented on [#88](https://github.com/smashah/peardrop/issues/88) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❗️ Closed issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. ❗️ Opened issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. ❗️ Closed issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. ❗️ Opened issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❌ Closed PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
