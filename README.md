@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#88](https://github.com/smashah/peardrop/issues/88) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. ❗️ Closed issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❌ Reopened PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. ❌ Closed PR [#62](https://github.com/smashah/peardrop/pull/62) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❌ Closed PR [#43](https://github.com/smashah/peardrop/pull/43) in [smashah/peardrop](https://github.com/smashah/peardrop)
+1. 🗣 Commented on [#7847](https://github.com/code-yeongyu/oh-my-openagent/issues/7847) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+2. ❗️ Opened issue [#7865](https://github.com/code-yeongyu/oh-my-openagent/issues/7865) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+3. ❗️ Opened issue [#7864](https://github.com/code-yeongyu/oh-my-openagent/issues/7864) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+4. ❗️ Opened issue [#7863](https://github.com/code-yeongyu/oh-my-openagent/issues/7863) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+5. ❗️ Closed issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
