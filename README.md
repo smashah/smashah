@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7847](https://github.com/code-yeongyu/oh-my-openagent/issues/7847) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-2. ❗️ Opened issue [#7865](https://github.com/code-yeongyu/oh-my-openagent/issues/7865) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-3. ❗️ Opened issue [#7864](https://github.com/code-yeongyu/oh-my-openagent/issues/7864) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-4. ❗️ Opened issue [#7863](https://github.com/code-yeongyu/oh-my-openagent/issues/7863) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-5. ❗️ Closed issue [#87](https://github.com/smashah/peardrop/issues/87) in [smashah/peardrop](https://github.com/smashah/peardrop)
+1. ❗️ Reopened issue [#3331](https://github.com/open-wa/wa-automate-nodejs/issues/3331) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#1213](https://github.com/robinebers/openusage/issues/1213) in [robinebers/openusage](https://github.com/robinebers/openusage)
+3. 🗣 Commented on [#7847](https://github.com/code-yeongyu/oh-my-openagent/issues/7847) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+4. ❗️ Opened issue [#7865](https://github.com/code-yeongyu/oh-my-openagent/issues/7865) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+5. ❗️ Opened issue [#7864](https://github.com/code-yeongyu/oh-my-openagent/issues/7864) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
