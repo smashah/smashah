@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#90](https://github.com/smashah/peardrop/issues/90) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. ❗️ Opened issue [#89](https://github.com/smashah/peardrop/issues/89) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❗️ Reopened issue [#3331](https://github.com/open-wa/wa-automate-nodejs/issues/3331) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#1213](https://github.com/robinebers/openusage/issues/1213) in [robinebers/openusage](https://github.com/robinebers/openusage)
-5. 🗣 Commented on [#7847](https://github.com/code-yeongyu/oh-my-openagent/issues/7847) in [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+1. ❗️ Closed issue [#88](https://github.com/smashah/peardrop/issues/88) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. ❗️ Closed issue [#86](https://github.com/smashah/peardrop/issues/86) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. ❌ Merged PR [#91](https://github.com/smashah/peardrop/pull/91) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❗️ Closed issue [#90](https://github.com/smashah/peardrop/issues/90) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Opened issue [#92](https://github.com/smashah/peardrop/issues/92) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
