@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#96](https://github.com/smashah/peardrop/issues/96) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. ❗️ Opened issue [#95](https://github.com/smashah/peardrop/issues/95) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❗️ Labeled issue [#687](https://github.com/relaticle/relaticle/issues/687) in [relaticle/relaticle](https://github.com/relaticle/relaticle)
-4. ❗️ Labeled issue [#687](https://github.com/relaticle/relaticle/issues/687) in [relaticle/relaticle](https://github.com/relaticle/relaticle)
-5. ❗️ Opened issue [#687](https://github.com/relaticle/relaticle/issues/687) in [relaticle/relaticle](https://github.com/relaticle/relaticle)
+1. 💪 Opened PR [#99](https://github.com/smashah/peardrop/pull/99) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. 💪 Opened PR [#98](https://github.com/smashah/peardrop/pull/98) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. ❗️ Opened issue [#97](https://github.com/smashah/peardrop/issues/97) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❗️ Opened issue [#96](https://github.com/smashah/peardrop/issues/96) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Opened issue [#95](https://github.com/smashah/peardrop/issues/95) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
