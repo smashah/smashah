@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#106](https://github.com/smashah/peardrop/issues/106) in [smashah/peardrop](https://github.com/smashah/peardrop)
-2. ❗️ Labeled issue [#115](https://github.com/smashah/peardrop/issues/115) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❗️ Labeled issue [#115](https://github.com/smashah/peardrop/issues/115) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. 🗣 Commented on [#115](https://github.com/smashah/peardrop/issues/115) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. 🗣 Commented on [#106](https://github.com/smashah/peardrop/issues/106) in [smashah/peardrop](https://github.com/smashah/peardrop)
 4. ❗️ Labeled issue [#115](https://github.com/smashah/peardrop/issues/115) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❗️ Opened issue [#115](https://github.com/smashah/peardrop/issues/115) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Labeled issue [#115](https://github.com/smashah/peardrop/issues/115) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
