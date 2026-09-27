@@ -22,7 +22,7 @@
 2. 🗣 Commented on [#120](https://github.com/smashah/peardrop/issues/120) in [smashah/peardrop](https://github.com/smashah/peardrop)
 3. ❗️ Closed issue [#120](https://github.com/smashah/peardrop/issues/120) in [smashah/peardrop](https://github.com/smashah/peardrop)
 4. ❌ Merged PR [#122](https://github.com/smashah/peardrop/pull/122) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. 💪 Opened PR [#122](https://github.com/smashah/peardrop/pull/122) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Opened issue [#121](https://github.com/smashah/peardrop/issues/121) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
