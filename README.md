@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#2](https://github.com/fstandhartinger/auto-model-router/issues/2) in [fstandhartinger/auto-model-router](https://github.com/fstandhartinger/auto-model-router)
-2. 🗣 Commented on [#120](https://github.com/smashah/peardrop/issues/120) in [smashah/peardrop](https://github.com/smashah/peardrop)
-3. ❗️ Closed issue [#120](https://github.com/smashah/peardrop/issues/120) in [smashah/peardrop](https://github.com/smashah/peardrop)
-4. ❗️ Closed issue [#113](https://github.com/smashah/peardrop/issues/113) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. ❗️ Closed issue [#111](https://github.com/smashah/peardrop/issues/111) in [smashah/peardrop](https://github.com/smashah/peardrop)
+2. ❗️ Closed issue [#120](https://github.com/smashah/peardrop/issues/120) in [smashah/peardrop](https://github.com/smashah/peardrop)
+3. ❗️ Closed issue [#113](https://github.com/smashah/peardrop/issues/113) in [smashah/peardrop](https://github.com/smashah/peardrop)
+4. ❗️ Closed issue [#111](https://github.com/smashah/peardrop/issues/111) in [smashah/peardrop](https://github.com/smashah/peardrop)
+5. ❗️ Closed issue [#110](https://github.com/smashah/peardrop/issues/110) in [smashah/peardrop](https://github.com/smashah/peardrop)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
