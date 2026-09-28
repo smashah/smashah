@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3407](https://github.com/open-wa/wa-automate-nodejs/pull/3407) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#61917](https://github.com/zed-industries/zed/issues/61917) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 💪 Opened PR [#3407](https://github.com/open-wa/wa-automate-nodejs/pull/3407) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#104](https://github.com/smashah/peardrop/issues/104) in [smashah/peardrop](https://github.com/smashah/peardrop)
-5. 🗣 Commented on [#103](https://github.com/smashah/peardrop/issues/103) in [smashah/peardrop](https://github.com/smashah/peardrop)
+1. ❌ Merged PR [#3409](https://github.com/open-wa/wa-automate-nodejs/pull/3409) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 💪 Opened PR [#3409](https://github.com/open-wa/wa-automate-nodejs/pull/3409) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❌ Merged PR [#3408](https://github.com/open-wa/wa-automate-nodejs/pull/3408) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 💪 Opened PR [#3408](https://github.com/open-wa/wa-automate-nodejs/pull/3408) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❌ Merged PR [#3407](https://github.com/open-wa/wa-automate-nodejs/pull/3407) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
