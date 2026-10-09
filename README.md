@@ -22,7 +22,7 @@
 2. ❗️ Opened issue [#3517](https://github.com/open-wa/wa-automate-nodejs/issues/3517) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 3. 💪 Opened PR [#3516](https://github.com/open-wa/wa-automate-nodejs/pull/3516) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 4. 💪 Opened PR [#3515](https://github.com/open-wa/wa-automate-nodejs/pull/3515) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. ❗️ Labeled issue [#3514](https://github.com/open-wa/wa-automate-nodejs/issues/3514) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#3514](https://github.com/open-wa/wa-automate-nodejs/issues/3514) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
