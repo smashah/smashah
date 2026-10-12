@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3505](https://github.com/open-wa/wa-automate-nodejs/issues/3505) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#3263](https://github.com/open-wa/wa-automate-nodejs/issues/3263) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. ❌ Merged PR [#3531](https://github.com/open-wa/wa-automate-nodejs/pull/3531) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 💪 Opened PR [#1](https://github.com/smashah/gupsh-skills/pull/1) in [smashah/gupsh-skills](https://github.com/smashah/gupsh-skills)
-5. 💪 Opened PR [#1](https://github.com/smashah/gupsh-cli/pull/1) in [smashah/gupsh-cli](https://github.com/smashah/gupsh-cli)
+1. ❌ Merged PR [#3533](https://github.com/open-wa/wa-automate-nodejs/pull/3533) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 💪 Opened PR [#3533](https://github.com/open-wa/wa-automate-nodejs/pull/3533) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#3383](https://github.com/open-wa/wa-automate-nodejs/issues/3383) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. 🗣 Commented on [#3384](https://github.com/open-wa/wa-automate-nodejs/issues/3384) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#3517](https://github.com/open-wa/wa-automate-nodejs/issues/3517) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
