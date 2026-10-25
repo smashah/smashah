@@ -18,11 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smashah&show_icons=true&count_private=true" alt="smashah" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/smashah/traicer/pull/42) in [smashah/traicer](https://github.com/smashah/traicer)
-2. ❌ Merged PR [#3567](https://github.com/open-wa/wa-automate-nodejs/pull/3567) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-3. 💪 Opened PR [#3567](https://github.com/open-wa/wa-automate-nodejs/pull/3567) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❌ Merged PR [#3556](https://github.com/open-wa/wa-automate-nodejs/pull/3556) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 💪 Opened PR [#3556](https://github.com/open-wa/wa-automate-nodejs/pull/3556) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❌ Merged PR [#41](https://github.com/smashah/traicer/pull/41) in [smashah/traicer](https://github.com/smashah/traicer)
+2. ❌ Merged PR [#42](https://github.com/smashah/traicer/pull/42) in [smashah/traicer](https://github.com/smashah/traicer)
+3. 💪 Opened PR [#42](https://github.com/smashah/traicer/pull/42) in [smashah/traicer](https://github.com/smashah/traicer)
+4. ❌ Merged PR [#3567](https://github.com/open-wa/wa-automate-nodejs/pull/3567) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 💪 Opened PR [#3567](https://github.com/open-wa/wa-automate-nodejs/pull/3567) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
